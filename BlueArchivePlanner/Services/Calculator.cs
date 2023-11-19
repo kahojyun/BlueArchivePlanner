@@ -51,12 +51,18 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
         return demand;
     }
 
+    public async Task<Dictionary<int, int>> CalculateNeededAsync()
+    {
+        var demand = await CalculateDemandAsync();
+        var current = userPreferences.GetEquipmentCount();
+        return demand.Select(x => (x.Key, Value: x.Value - (current?.GetValueOrDefault(x.Key) ?? 0))).Where(x => x.Value > 0).ToDictionary();
+    }
+
     public async Task<Dictionary<int, int>> PlanningAsync()
     {
         Dictionary<int, Campaign> campaigns = await schaleDb.GetCampaigns();
         Dictionary<int, GachaGroup> gachaGroups = await schaleDb.GetGachaGroups();
-        Dictionary<int, int> demand = await CalculateDemandAsync();
-        demand = demand.Where(x => x.Value > 0).ToDictionary(x => x.Key, x => x.Value);
+        Dictionary<int, int> demand = await CalculateNeededAsync();
         Campaign[] stages = campaigns.Values.Where(x => x.Area <= 14 && x.Difficulty == 0 && x.EntryCost is [[5, ..]] && CheckDemand(x)).ToArray();
         int nStages = stages.Length;
         int nDemand = demand.Count;
