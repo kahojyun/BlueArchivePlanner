@@ -35,6 +35,8 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 8.0.x
+    - name: Restore Workload
+      run: dotnet workload restore
     - name: Publish
       run: dotnet publish ./BlazorApp2/ -c Release -o publish --nologo
     - name: Upload Artifacts
