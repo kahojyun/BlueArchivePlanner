@@ -9,19 +9,18 @@ public partial class ExportDialog : IDialogContentComponent
     [Inject]
     private UserPreferences UserPreferences { get; set; } = default!;
 
-    private string ExportText { get; set; } = "";
-    private string ImportText { get; set; } = "";
+    private string Text { get; set; } = "";
 
     private void Export()
     {
-        ExportText = UserPreferences.Export();
+        Text = UserPreferences.Export();
     }
 
     private void Import()
     {
         try
         {
-            UserPreferences.Import(ImportText);
+            UserPreferences.Import(Text);
         }
         catch (JsonException)
         {
