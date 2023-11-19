@@ -1,9 +1,9 @@
-﻿using BlazorApp2.Models;
+﻿using BlueArchivePlanner.Models;
 using System.Net.Http.Json;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace BlazorApp2.Services;
+namespace BlueArchivePlanner.Services;
 
 [JsonSerializable(typeof(EquipmentInfo[]))]
 [JsonSerializable(typeof(StudentInfo[]))]

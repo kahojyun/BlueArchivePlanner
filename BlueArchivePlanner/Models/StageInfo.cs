@@ -1,4 +1,4 @@
-﻿namespace BlazorApp2.Models;
+﻿namespace BlueArchivePlanner.Models;
 
 public class StageInfo
 {

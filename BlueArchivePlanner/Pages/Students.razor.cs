@@ -1,9 +1,9 @@
-using BlazorApp2.Models;
-using BlazorApp2.Services;
+using BlueArchivePlanner.Models;
+using BlueArchivePlanner.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.FluentUI.AspNetCore.Components;
 
-namespace BlazorApp2.Pages;
+namespace BlueArchivePlanner.Pages;
 public partial class Students
 {
     [Inject]

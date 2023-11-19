@@ -1,6 +1,6 @@
 {
-  "name": "BlazorApp2",
-  "short_name": "BlazorApp2",
+  "name": "BlueArchivePlanner",
+  "short_name": "BlueArchivePlanner",
   "id": "./",
   "start_url": "./",
   "display": "standalone",

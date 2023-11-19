@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace BlazorApp2.Models;
+namespace BlueArchivePlanner.Models;
 
 public class StudentInfo
 {

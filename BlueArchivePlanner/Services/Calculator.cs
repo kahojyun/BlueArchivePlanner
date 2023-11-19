@@ -1,6 +1,6 @@
-﻿using BlazorApp2.Models;
+﻿using BlueArchivePlanner.Models;
 
-namespace BlazorApp2.Services;
+namespace BlueArchivePlanner.Services;
 
 public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
 {

@@ -1,7 +1,10 @@
-﻿namespace BlazorApp2;
+﻿namespace BlueArchivePlanner;
 
 // Implemented the `Linear Programming Simplex Method VI` of LabVIEW in C#
 // https://gist.github.com/diluculo/0cabfed820fe6b0c7ce70f44fc95c597
+
+// Ignore warnings for this file
+#pragma warning disable
 
 public static class Optimization
 {

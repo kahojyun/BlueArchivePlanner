@@ -1,7 +1,7 @@
-using BlazorApp2.Services;
+using BlueArchivePlanner.Services;
 using Microsoft.AspNetCore.Components;
 
-namespace BlazorApp2.Pages;
+namespace BlueArchivePlanner.Pages;
 public partial class Planning
 {
     [Inject]

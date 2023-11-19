@@ -1,8 +1,8 @@
-using BlazorApp2.Components;
+using BlueArchivePlanner.Components;
 using Microsoft.AspNetCore.Components;
 using Microsoft.FluentUI.AspNetCore.Components;
 
-namespace BlazorApp2.Layout;
+namespace BlueArchivePlanner.Layout;
 public partial class MainLayout
 {
     [Inject]

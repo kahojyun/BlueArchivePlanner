@@ -1,5 +1,5 @@
-using BlazorApp2;
-using BlazorApp2.Services;
+using BlueArchivePlanner;
+using BlueArchivePlanner.Services;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.FluentUI.AspNetCore.Components;

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 
-namespace BlazorApp2.Components;
+namespace BlueArchivePlanner.Components;
 public partial class EquipmentCard
 {
     [Parameter, EditorRequired]

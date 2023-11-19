@@ -1,9 +1,9 @@
-using BlazorApp2.Services;
+using BlueArchivePlanner.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.FluentUI.AspNetCore.Components;
 using System.Text.Json;
 
-namespace BlazorApp2.Components;
+namespace BlueArchivePlanner.Components;
 public partial class ExportDialog : IDialogContentComponent
 {
     [Inject]

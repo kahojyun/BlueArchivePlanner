@@ -1,8 +1,8 @@
-﻿using BlazorApp2.Models;
+﻿using BlueArchivePlanner.Models;
 using Microsoft.JSInterop;
 using System.Text.Json;
 
-namespace BlazorApp2.Services;
+namespace BlueArchivePlanner.Services;
 
 public class UserPreferences(ILocalStorageService localStorageService)
 {
