@@ -1,0 +1,38 @@
+﻿@page "/students"
+
+<PageTitle>Students</PageTitle>
+
+<h1>Students</h1>
+
+@if (IsLoading)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <FluentDataGrid Items="studentModels" Virtualize GenerateHeader="GenerateHeaderOption.Sticky" ItemSize="100">
+
+             <PropertyColumn Property="@(c => c.Name)" Title="Name" Sortable="true" />
+
+             <TemplateColumn Title="Icon">
+                 <img style="height: 100px;" src="images/student/icon/@(context.Id).webp">
+             </TemplateColumn>
+
+             <TemplateColumn Title="Owned" SortBy="@ownedSort">
+                 <FluentCheckbox @bind-Value="@(context.IsMember)" @bind-Value:after="SavePreferences" />
+             </TemplateColumn>
+
+             <TemplateColumn Title="Equipment 1">
+                 <FluentNumberField Min="1" Max="5" @bind-Value="@(context.EquipmentLevel[0])" @bind-Value:after="SavePreferences" />
+             </TemplateColumn>
+
+             <TemplateColumn Title="Equipment 2">
+                 <FluentNumberField Min="1" Max="5" @bind-Value="@(context.EquipmentLevel[1])" @bind-Value:after="SavePreferences" />
+             </TemplateColumn>
+
+             <TemplateColumn Title="Equipment 3">
+                 <FluentNumberField Min="1" Max="5" @bind-Value="@(context.EquipmentLevel[2])" @bind-Value:after="SavePreferences" />
+             </TemplateColumn>
+
+         </FluentDataGrid>
+}

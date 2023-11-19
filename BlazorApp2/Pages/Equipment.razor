@@ -1,0 +1,18 @@
+﻿@page "/equipment"
+
+<PageTitle>Equipment</PageTitle>
+
+<h1>Equipment</h1>
+
+@if (isLoading)
+{
+    <p><em>Loading...</em></p>
+}
+else {
+    <FluentStack Wrap>
+        @foreach (var equipment in equipmentModels)
+        {
+            <EquipmentCard Icon="@equipment.Icon" Demand="@equipment.Demand" @bind-Count="@equipment.Count" @bind-Count:after="SaveCount" />
+        }
+    </FluentStack>
+}

@@ -1,0 +1,12 @@
+﻿<FluentCard Width="150px">
+    <div>
+        <img style="width: 100%;" src="images/equipment/icon/@(Icon).webp" />
+    </div>
+    <div style="color: @DemandColor">
+        Demand: @Demand<br />
+        Needed: @(Demand - CurrentCount)
+    </div>
+    <div>
+        <FluentNumberField @bind-Value="CurrentCount" Min="0" />
+    </div>
+</FluentCard>
