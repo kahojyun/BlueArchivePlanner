@@ -1,15 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
   <PropertyGroup>
-    <Version>4.0.0</Version>
-    <AssemblyVersion>4.0.0.23318</AssemblyVersion>
-    <FileVersion>4.0.0.23318</FileVersion>
-    <InformationalVersion>4.0.0.23318</InformationalVersion>
-  </PropertyGroup>
-  <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <ServiceWorkerAssetsManifest>service-worker-assets.js</ServiceWorkerAssetsManifest>
+	<RunAOTCompilation>true</RunAOTCompilation>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Blazor.LocalStorage.WebAssembly" Version="8.0.0" />

@@ -3,3 +3,14 @@
 <PageTitle>Planning</PageTitle>
 
 <h1>Planning</h1>
+
+@if (isLoading)
+{
+    <p><em>Loading...</em></p>
+}
+else {
+    @foreach (var plan in planningViewModels)
+    {
+        <p>@plan.StageName: @plan.SweepCount</p>
+    }
+}

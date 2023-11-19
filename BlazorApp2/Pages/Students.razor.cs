@@ -24,7 +24,7 @@ public partial class Students
     {
         var data = await SchaleDb.GetStudentInfos();
         var preferences = UserPreferences.GetStudentPreferences();
-        studentViewModels = data!.Where(x => x.IsReleased![2])
+        studentViewModels = data!.Values.Where(x => x.IsReleased![2])
             .Select(x =>
             {
                 var pref = preferences?.GetValueOrDefault(x.Id);

@@ -20,8 +20,8 @@ public partial class Equipment
 
     protected override async Task OnInitializedAsync()
     {
-        EquipmentInfo[] data = await SchaleDb.GetEquipmentItems();
-        IEnumerable<EquipmentInfo> filtered = data!.Where(x => x.IsReleased![2] && x.Icon!.EndsWith("piece"));
+        var data = await SchaleDb.GetEquipmentInfos();
+        IEnumerable<EquipmentInfo> filtered = data!.Values.Where(x => x.IsReleased![2] && x.Icon!.EndsWith("piece"));
         Dictionary<int, int>? stored = UserPreferences.GetEquipmentCount();
         Dictionary<int, int> demand = await Calculator.CalculateDemandAsync();
         equipmentModels = filtered.Select(x => new EquipmentViewModel

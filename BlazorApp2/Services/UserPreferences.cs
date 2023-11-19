@@ -1,5 +1,6 @@
 ﻿using BlazorApp2.Models;
 using Microsoft.JSInterop;
+using System.Text.Json;
 
 namespace BlazorApp2.Services;
 
@@ -25,5 +26,33 @@ public class UserPreferences(ILocalStorageService localStorageService)
     public void SetStudentPreferences(Dictionary<int, StudentPreference> data)
     {
         localStorageService.SetItem(StudentPreferenceKey, data);
+    }
+
+    public string Export()
+    {
+        PreferenceObject data = new()
+        {
+            EquipmentCount = GetEquipmentCount(),
+            StudentPreference = GetStudentPreferences()
+        };
+        return JsonSerializer.Serialize(data);
+    }
+
+    public void Import(string data)
+    {
+        PreferenceObject? obj = JsonSerializer.Deserialize<PreferenceObject>(data);
+        if (obj is null)
+        {
+            return;
+        }
+
+        SetEquipmentCount(obj.EquipmentCount ?? []);
+        SetStudentPreferences(obj.StudentPreference ?? []);
+    }
+
+    private class PreferenceObject
+    {
+        public Dictionary<int, int>? EquipmentCount { get; set; }
+        public Dictionary<int, StudentPreference>? StudentPreference { get; set; }
     }
 }

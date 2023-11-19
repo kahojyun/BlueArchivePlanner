@@ -1,0 +1,8 @@
+﻿<FluentDialogBody>
+    <FluentTextArea @bind-Value="@ExportText" Label="Export:" Style="width: 100%;" />
+    <FluentTextArea @bind-Value="@ImportText" Label="Import:" Style="width: 100%;" />
+    <div style="justify-content: center; display: flex; padding: 10px; gap: 10px;">
+        <FluentButton OnClick="Export">Export</FluentButton>
+        <FluentButton OnClick="Import">Import</FluentButton>
+    </div>
+</FluentDialogBody>
