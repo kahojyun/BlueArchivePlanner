@@ -38,7 +38,13 @@ jobs:
     - name: Restore Workload
       run: dotnet workload restore
     - name: Publish
-      run: dotnet publish ./BlazorApp2/ -c Release -o publish --nologo
+      run: dotnet publish ./BlueArchivePlanner/ -c Release -o publish --nologo
+    - name: Necessary Changes for Github Pages
+      run: |
+          BASENAME=`basename $GITHUB_REPOSITORY`
+          sed -i s/"\/"/"\/$BASENAME\/"/g ./publish/wwwroot/index.html
+          sed -i s/"\/"/"\/$BASENAME\/"/g ./publish/wwwroot/service-worker.js
+          touch ./publish/wwwroot/.nojekyll
     - name: Upload Artifacts
       uses: actions/upload-pages-artifact@v2
       with:
