@@ -53,8 +53,8 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
 
     public async Task<Dictionary<int, int>> CalculateNeededAsync()
     {
-        var demand = await CalculateDemandAsync();
-        var current = userPreferences.GetEquipmentCount();
+        Dictionary<int, int> demand = await CalculateDemandAsync();
+        Dictionary<int, int>? current = userPreferences.GetEquipmentCount();
         return demand.Select(x => (x.Key, Value: x.Value - (current?.GetValueOrDefault(x.Key) ?? 0))).Where(x => x.Value > 0).ToDictionary();
     }
 
@@ -71,8 +71,7 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
         double[] objective = BuildObjective();
         double[,] constraints = BuildConstraints();
         double[] rightHandSides = BuildRightHandSides();
-        Tuple<double, double[]> result = Optimization.SolveLinearProgram(objective, constraints, rightHandSides);
-        double[] solution = result.Item2;
+        (double _, double[] solution) = Optimization.SolveLinearProgram(objective, constraints, rightHandSides);
         Dictionary<int, int> plan = [];
         foreach ((int id, int i) in stageIndex)
         {

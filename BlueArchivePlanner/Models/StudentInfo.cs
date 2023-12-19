@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace BlueArchivePlanner.Models;
+﻿namespace BlueArchivePlanner.Models;
 
 public class StudentInfo
 {

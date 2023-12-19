@@ -15,8 +15,8 @@ public partial class Planning
 
     protected override async Task OnInitializedAsync()
     {
-        var plan = await Calculator.PlanningAsync();
-        var campaigns = await SchaleDb.GetCampaigns();
+        Dictionary<int, int> plan = await Calculator.PlanningAsync();
+        Dictionary<int, Models.Campaign> campaigns = await SchaleDb.GetCampaigns();
         planningViewModels = plan.Where(x => x.Value > 0).Select(x => new PlanningViewModel
         {
             StageName = GetStageName(x.Key),
@@ -26,7 +26,7 @@ public partial class Planning
 
         string GetStageName(int id)
         {
-            var c = campaigns[id];
+            Models.Campaign c = campaigns[id];
             return $"Stage {c.Area}-{c.Stage}";
         }
     }

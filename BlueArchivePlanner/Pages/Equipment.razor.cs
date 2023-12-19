@@ -20,7 +20,7 @@ public partial class Equipment
 
     protected override async Task OnInitializedAsync()
     {
-        var data = await SchaleDb.GetEquipmentInfos();
+        Dictionary<int, EquipmentInfo> data = await SchaleDb.GetEquipmentInfos();
         IEnumerable<EquipmentInfo> filtered = data!.Values.Where(x => x.IsReleased![2] && x.Icon!.EndsWith("piece"));
         Dictionary<int, int>? stored = UserPreferences.GetEquipmentCount();
         Dictionary<int, int> demand = await Calculator.CalculateDemandAsync();
@@ -34,7 +34,7 @@ public partial class Equipment
         isLoading = false;
     }
 
-    
+
 
     private void SaveCount()
     {

@@ -1,6 +1,5 @@
 ﻿using BlueArchivePlanner.Models;
 using System.Net.Http.Json;
-using System.Text.Json;
 using System.Text.Json.Serialization;
 
 namespace BlueArchivePlanner.Services;
@@ -21,20 +20,20 @@ public class SchaleDb(HttpClient httpClient)
 
         async Task<Dictionary<int, EquipmentInfo>> GetEquipmentInfosImpl()
         {
-            var data = await httpClient.GetFromJsonAsync("data/cn/equipment.min.json", SerializerContext.Default.EquipmentInfoArray);
+            EquipmentInfo[]? data = await httpClient.GetFromJsonAsync("data/cn/equipment.min.json", SerializerContext.Default.EquipmentInfoArray);
             return data!.ToDictionary(x => x.Id);
         }
     }
 
     private Task<Dictionary<int, StudentInfo>>? studentInfosTask;
-    
+
     public Task<Dictionary<int, StudentInfo>> GetStudentInfos()
     {
         return studentInfosTask ??= GetStudentInfosImpl();
 
         async Task<Dictionary<int, StudentInfo>> GetStudentInfosImpl()
         {
-            var data = await httpClient.GetFromJsonAsync("data/cn/students.min.json", SerializerContext.Default.StudentInfoArray);
+            StudentInfo[]? data = await httpClient.GetFromJsonAsync("data/cn/students.min.json", SerializerContext.Default.StudentInfoArray);
             return data!.ToDictionary(x => x.Id);
         }
     }
@@ -47,7 +46,7 @@ public class SchaleDb(HttpClient httpClient)
 
         async Task<Dictionary<int, Campaign>> GetCampaignsImpl()
         {
-            var stageInfo = await httpClient.GetFromJsonAsync("data/stages.min.json", SerializerContext.Default.StageInfo);
+            StageInfo? stageInfo = await httpClient.GetFromJsonAsync("data/stages.min.json", SerializerContext.Default.StageInfo);
             return stageInfo!.Campaign!.ToDictionary(x => x.Id);
         }
     }
@@ -60,7 +59,7 @@ public class SchaleDb(HttpClient httpClient)
 
         async Task<Dictionary<int, GachaGroup>> GetGachaGroupsImpl()
         {
-            var configInfo = await httpClient.GetFromJsonAsync("data/config.min.json", SerializerContext.Default.ConfigInfo);
+            ConfigInfo? configInfo = await httpClient.GetFromJsonAsync("data/config.min.json", SerializerContext.Default.ConfigInfo);
             return configInfo!.GachaGroups!.ToDictionary(x => x.Id);
         }
     }

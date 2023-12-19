@@ -22,12 +22,12 @@ public partial class Students
 
     protected override async Task OnInitializedAsync()
     {
-        var data = await SchaleDb.GetStudentInfos();
-        var preferences = UserPreferences.GetStudentPreferences();
+        Dictionary<int, StudentInfo> data = await SchaleDb.GetStudentInfos();
+        Dictionary<int, StudentPreference>? preferences = UserPreferences.GetStudentPreferences();
         studentViewModels = data!.Values.Where(x => x.IsReleased![2])
             .Select(x =>
             {
-                var pref = preferences?.GetValueOrDefault(x.Id);
+                StudentPreference? pref = preferences?.GetValueOrDefault(x.Id);
                 return new StudentViewModel(x.Name!, x.Id, pref?.EquipmentLevel ?? [1, 1, 1], pref?.IsMember ?? false);
             })
             .ToArray();
@@ -37,7 +37,7 @@ public partial class Students
 
     private void SavePreferences()
     {
-        var preferences = studentViewModels.ToDictionary(x => x.Id, x => new StudentPreference
+        Dictionary<int, StudentPreference> preferences = studentViewModels.ToDictionary(x => x.Id, x => new StudentPreference
         {
             EquipmentLevel = x.EquipmentLevel,
             IsMember = x.IsMember

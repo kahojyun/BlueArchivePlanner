@@ -4,7 +4,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <ServiceWorkerAssetsManifest>service-worker-assets.js</ServiceWorkerAssetsManifest>
-	<RunAOTCompilation>true</RunAOTCompilation>
+	<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Blazor.LocalStorage.WebAssembly" Version="8.0.0" />
@@ -16,4 +16,7 @@
   <ItemGroup>
     <ServiceWorker Include="wwwroot\service-worker.js" PublishedContent="wwwroot\service-worker.published.js" />
   </ItemGroup>
+	<ItemGroup>
+		<NativeFileReference Include="lib/libsoplexshared.a" />
+	</ItemGroup>
 </Project>
