@@ -37,14 +37,15 @@ jobs:
         dotnet-version: 8.0.x
     - name: Restore Workload
       run: dotnet workload restore
-    - name: Publish
-      run: dotnet publish ./BlueArchivePlanner/ -c Release -o publish --nologo
-    - name: Necessary Changes for Github Pages
+    - name: Necessary Changes for Github Pages Part 1
       run: |
           BASENAME=`basename $GITHUB_REPOSITORY`
-          sed -i "s/\"\/\"/\"\/$BASENAME\/\"/g" ./publish/wwwroot/index.html
-          sed -i "s/\"\/\"/\"\/$BASENAME\/\"/g" ./publish/wwwroot/service-worker.js
-          touch ./publish/wwwroot/.nojekyll
+          sed -i "s/\"\/\"/\"\/$BASENAME\/\"/g" ./BlueArchivePlanner/wwwroot/index.html
+          sed -i "s/\"\/\"/\"\/$BASENAME\/\"/g" ./BlueArchivePlanner/wwwroot/service-worker.published.js
+    - name: Publish
+      run: dotnet publish ./BlueArchivePlanner/ -c Release -o publish --nologo
+    - name: Necessary Changes for Github Pages Part 2
+      run: touch ./publish/wwwroot/.nojekyll
     - name: Upload Artifacts
       uses: actions/upload-pages-artifact@v2
       with:
