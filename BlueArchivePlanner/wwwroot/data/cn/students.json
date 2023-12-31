@@ -474,11 +474,11 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Roman"
+            "ak",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Aru"
+            "BD"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -1066,7 +1066,9 @@
                 67
             ]
         ],
-        "FavorAlts": [],
+        "FavorAlts": [
+            20032
+        ],
         "MemoryLobby": [
             6,
             6,
@@ -1079,11 +1081,11 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Music"
+            "ak",
+            "aQ"
         ],
         "FavorItemUniqueTags": [
-            "F_Eimi"
+            "Bd"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -1611,11 +1613,11 @@
             []
         ],
         "FavorItemTags": [
-            "Simplicity"
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Haruna",
-            "F_Haruna2"
+            "BE",
+            "db"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -2160,11 +2162,11 @@
             []
         ],
         "FavorItemTags": [
-            "MomoFriends"
+            "ap"
         ],
         "FavorItemUniqueTags": [
-            "F_Hihumi",
-            "F_Hihumi2"
+            "Be",
+            "dC"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -2678,11 +2680,11 @@
             []
         ],
         "FavorItemTags": [
-            "Mystery"
+            "aW"
         ],
         "FavorItemUniqueTags": [
-            "F_Hina",
-            "F_Hina2"
+            "BF",
+            "dD"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -3223,11 +3225,11 @@
             []
         ],
         "FavorItemTags": [
-            "Roman"
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Hoshino",
-            "F_Hoshino2"
+            "Bf",
+            "de"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -3726,11 +3728,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Army"
+            "aJ",
+            "as"
         ],
         "FavorItemUniqueTags": [
-            "F_Iori"
+            "BG"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -4258,11 +4260,11 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "Art"
+            "al",
+            "ax"
         ],
         "FavorItemUniqueTags": [
-            "F_Maki"
+            "Bg"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -4671,7 +4673,7 @@
                             181,
                             181
                         ],
-                        "HitsParameter": 1,
+                        "HitsParameter": 0,
                         "Scale": [
                             71518,
                             82246,
@@ -4980,13 +4982,18 @@
                     3
                 ]
             ],
-            []
+            [
+                [
+                    2302,
+                    0
+                ]
+            ]
         ],
         "FavorItemTags": [
-            "Toy"
+            "al"
         ],
         "FavorItemUniqueTags": [
-            "F_Neru"
+            "BH"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -5617,11 +5624,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Freakish"
+            "aJ",
+            "aP"
         ],
         "FavorItemUniqueTags": [
-            "F_Izumi"
+            "Bh"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -6219,10 +6226,10 @@
             []
         ],
         "FavorItemTags": [
-            "Sports"
+            "aj"
         ],
         "FavorItemUniqueTags": [
-            "F_Shiroko"
+            "BI"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -6775,11 +6782,11 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics",
-            "Beauty"
+            "Bb",
+            "aS"
         ],
         "FavorItemUniqueTags": [
-            "F_Shun"
+            "Bi"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -7359,10 +7366,10 @@
             []
         ],
         "FavorItemTags": [
-            "Sports"
+            "aj"
         ],
         "FavorItemUniqueTags": [
-            "F_Sumire"
+            "BJ"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -7988,11 +7995,11 @@
             []
         ],
         "FavorItemTags": [
-            "LoveStory"
+            "aq"
         ],
         "FavorItemUniqueTags": [
-            "F_Tsurugi",
-            "F_Tsurugi2"
+            "Bj",
+            "dp"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -8533,10 +8540,10 @@
             []
         ],
         "FavorItemTags": [
-            "Household"
+            "am"
         ],
         "FavorItemUniqueTags": [
-            "F_Akane"
+            "BK"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -9059,11 +9066,11 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "PureLiterature"
+            "BB",
+            "aY"
         ],
         "FavorItemUniqueTags": [
-            "F_Chise"
+            "Bk"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -9560,11 +9567,11 @@
             []
         ],
         "FavorItemTags": [
-            "BigMeal"
+            "az"
         ],
         "FavorItemUniqueTags": [
-            "F_Akari",
-            "F_Akari2"
+            "BL",
+            "Dw"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -10055,11 +10062,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "BigMeal"
+            "aJ",
+            "az"
         ],
         "FavorItemUniqueTags": [
-            "F_Hasumi"
+            "Bl"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -10573,11 +10580,11 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics",
-            "Girlish"
+            "Bb",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Nonomi"
+            "BM"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -11105,11 +11112,11 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Music"
+            "aL",
+            "aQ"
         ],
         "FavorItemUniqueTags": [
-            "F_Kayoko"
+            "Bm"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -11624,11 +11631,11 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "CuriousFellow"
+            "al",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Mutsuki"
+            "BN"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -12153,14 +12160,19 @@
                     0
                 ]
             ],
-            []
+            [
+                [
+                    5203,
+                    0
+                ]
+            ]
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Delicious"
+            "aJ",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Zunko"
+            "Bn"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -12762,10 +12774,10 @@
             []
         ],
         "FavorItemTags": [
-            "Curios"
+            "ak"
         ],
         "FavorItemUniqueTags": [
-            "F_Serika"
+            "BO"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -13295,11 +13307,11 @@
             []
         ],
         "FavorItemTags": [
-            "Bedding"
+            "aK"
         ],
         "FavorItemUniqueTags": [
-            "F_Tsubaki",
-            "F_Tsubaki2"
+            "Bo",
+            "dP"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -13886,11 +13898,11 @@
             []
         ],
         "FavorItemTags": [
-            "Smart"
+            "aZ"
         ],
         "FavorItemUniqueTags": [
-            "F_Yuuka",
-            "F_Yuuka2"
+            "BP",
+            "ds"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -14443,11 +14455,11 @@
             []
         ],
         "FavorItemTags": [
-            "Horticulture",
-            "CuriousFellow"
+            "aN",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Haruka"
+            "Bp"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -14976,11 +14988,11 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics"
+            "Bb"
         ],
         "FavorItemUniqueTags": [
-            "F_Asuna",
-            "F_Asuna2"
+            "BQ",
+            "Dx"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -15508,12 +15520,12 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "Specialized"
+            "BB",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Kotori",
-            "F_Kotori2"
+            "Bq",
+            "dh"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -16107,11 +16119,11 @@
             []
         ],
         "FavorItemTags": [
-            "Doll"
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Suzumi",
-            "F_Suzumi2"
+            "BR",
+            "dO"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -16412,13 +16424,38 @@
                 "Icon": "COMMON_SKILLICON_IGNOREDELAY",
                 "Effects": [
                     {
-                        "Type": "IgnoreDelay",
-                        "Scale": [
+                        "Type": "FormChange",
+                        "Frames": {
+                            "AttackEnterDuration": 56,
+                            "AttackStartDuration": 21,
+                            "AttackEndDuration": 32,
+                            "AttackBurstRoundOverDelay": 42,
+                            "AttackIngDuration": 19,
+                            "AttackReadyStartDuration": 30,
+                            "AttackReadyEndDuration": 30,
+                            "AttackReloadDuration": 52
+                        },
+                        "Hits": [
+                            2000,
+                            2000,
+                            2000,
+                            2000,
+                            2000
+                        ],
+                        "IgnoreDelay": [
                             3,
                             3,
                             4,
                             4,
                             5
+                        ],
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            10000,
+                            10000,
+                            10000,
+                            10000,
+                            10000
                         ]
                     },
                     {
@@ -16662,11 +16699,11 @@
             []
         ],
         "FavorItemTags": [
-            "Movie"
+            "aX"
         ],
         "FavorItemUniqueTags": [
-            "F_Pina",
-            "F_Pina2"
+            "Br",
+            "dM"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -17152,10 +17189,10 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic"
+            "aL"
         ],
         "FavorItemUniqueTags": [
-            "F_Hibiki"
+            "Bw"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -17656,11 +17693,11 @@
             []
         ],
         "FavorItemTags": [
-            "Smart"
+            "aZ"
         ],
         "FavorItemUniqueTags": [
-            "F_Karin",
-            "F_Karin2"
+            "BX",
+            "dG"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -18173,11 +18210,11 @@
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Specialized"
+            "aO",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Saya"
+            "Bx"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -18692,13 +18729,18 @@
                     0
                 ]
             ],
-            []
+            [
+                [
+                    5205,
+                    0
+                ]
+            ]
         ],
         "FavorItemTags": [
-            "Dessert"
+            "aJ"
         ],
         "FavorItemUniqueTags": [
-            "F_Airi"
+            "By"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -19172,11 +19214,11 @@
             []
         ],
         "FavorItemTags": [
-            "Household",
-            "Food"
+            "am",
+            "ay"
         ],
         "FavorItemUniqueTags": [
-            "F_Fuuka"
+            "BZ"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -19646,10 +19688,10 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics"
+            "Bb"
         ],
         "FavorItemUniqueTags": [
-            "F_Hanae"
+            "Bz"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -20171,7 +20213,9 @@
                 21
             ]
         ],
-        "FavorAlts": [],
+        "FavorAlts": [
+            10085
+        ],
         "MemoryLobby": [
             5,
             5,
@@ -20184,11 +20228,11 @@
             []
         ],
         "FavorItemTags": [
-            "Game"
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Hare",
-            "F_Hare2"
+            "bA",
+            "dB"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -20715,11 +20759,11 @@
             []
         ],
         "FavorItemTags": [
-            "Observational"
+            "at"
         ],
         "FavorItemUniqueTags": [
-            "F_Utaha",
-            "F_Utaha2"
+            "ba",
+            "dR"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -21240,10 +21284,10 @@
             []
         ],
         "FavorItemTags": [
-            "Books"
+            "BB"
         ],
         "FavorItemUniqueTags": [
-            "F_Ayane"
+            "bB"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -21718,12 +21762,12 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "Humanities"
+            "BB",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Chinatsu",
-            "F_Chinatsu2"
+            "bb",
+            "da"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -22202,7 +22246,9 @@
                 22
             ]
         ],
-        "FavorAlts": [],
+        "FavorAlts": [
+            10084
+        ],
         "MemoryLobby": [
             6,
             6,
@@ -22215,11 +22261,11 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "Doll"
+            "al",
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Kotama"
+            "bC"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -22706,11 +22752,11 @@
             []
         ],
         "FavorItemTags": [
-            "Art"
+            "ax"
         ],
         "FavorItemUniqueTags": [
-            "F_Juri",
-            "F_Juri2"
+            "bc",
+            "df"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -23180,11 +23226,11 @@
             []
         ],
         "FavorItemTags": [
-            "Jellyz"
+            "aU"
         ],
         "FavorItemUniqueTags": [
-            "F_Serina",
-            "F_Serina2"
+            "bD",
+            "dn"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -23682,10 +23728,10 @@
             []
         ],
         "FavorItemTags": [
-            "Books"
+            "BB"
         ],
         "FavorItemUniqueTags": [
-            "F_Shimiko"
+            "bd"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -24190,10 +24236,10 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert"
+            "aJ"
         ],
         "FavorItemUniqueTags": [
-            "F_Yoshimi"
+            "bE"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -24690,11 +24736,11 @@
             []
         ],
         "FavorItemTags": [
-            "Army"
+            "as"
         ],
         "FavorItemUniqueTags": [
-            "F_Mashiro",
-            "F_Mashiro2"
+            "BY",
+            "dI"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -25204,10 +25250,10 @@
             []
         ],
         "FavorItemTags": [
-            "Fashion"
+            "an"
         ],
         "FavorItemUniqueTags": [
-            "F_Izuna"
+            "bf"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -25749,10 +25795,10 @@
             []
         ],
         "FavorItemTags": [
-            "Functional"
+            "aO"
         ],
         "FavorItemUniqueTags": [
-            "F_Shizuko"
+            "bF"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -26337,11 +26383,11 @@
             []
         ],
         "FavorItemTags": [
-            "Game"
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Aris",
-            "F_Aris2"
+            "BS",
+            "DX"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -26897,11 +26943,11 @@
             []
         ],
         "FavorItemTags": [
-            "Jellyz"
+            "aU"
         ],
         "FavorItemUniqueTags": [
-            "F_Midori",
-            "F_Midori2"
+            "Bv",
+            "dJ"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -27467,11 +27513,11 @@
             []
         ],
         "FavorItemTags": [
-            "Game"
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Momoi",
-            "F_Momoi2"
+            "BW",
+            "dL"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -28024,11 +28070,11 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "CuriousFellow"
+            "ak",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Cherino"
+            "BT"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -28534,11 +28580,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Observational"
+            "aJ",
+            "at"
         ],
         "FavorItemUniqueTags": [
-            "F_Nodoka"
+            "bG"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -29055,11 +29101,11 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Game"
+            "aL",
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Yuzu"
+            "bg"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -29592,12 +29638,12 @@
             []
         ],
         "FavorItemTags": [
-            "Fashion",
-            "MomoFriends",
-            "Doll"
+            "an",
+            "ap",
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Azusa"
+            "Bs"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -30148,12 +30194,12 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "LoveStory",
-            "Mystery"
+            "BB",
+            "aq",
+            "aW"
         ],
         "FavorItemUniqueTags": [
-            "F_Hanako"
+            "BV"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -30695,12 +30741,12 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics",
-            "LoveStory",
-            "Girlish"
+            "Bb",
+            "aq",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Koharu"
+            "Bu"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -31221,14 +31267,14 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "MomoFriends",
-            "Doll"
+            "CX",
+            "Cx",
+            "ap",
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Azusa_Swimsuit",
-            "F_Azusa_Swimsuit2"
+            "Cy",
+            "Dz"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -31728,13 +31774,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Army"
+            "CX",
+            "Cx",
+            "as"
         ],
         "FavorItemUniqueTags": [
-            "F_Mashiro_Swimsuit",
-            "F_Mashiro_Swimsuit2"
+            "Cz",
+            "di"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -32015,6 +32061,14 @@
                         "Hits": [
                             5000,
                             5000
+                        ],
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            10000,
+                            10000,
+                            10000,
+                            10000,
+                            10000
                         ]
                     },
                     {
@@ -32259,13 +32313,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "LoveStory"
+            "CX",
+            "Cx",
+            "aq"
         ],
         "FavorItemUniqueTags": [
-            "F_Tsurugi_Swimsuit",
-            "F_Tsurugi_Swimsuit2"
+            "CZ",
+            "dQ"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -32822,13 +32876,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "MomoFriends"
+            "CX",
+            "Cx",
+            "ap"
         ],
         "FavorItemUniqueTags": [
-            "F_Hihumi_Swimsuit",
-            "F_Hihumi_Swimsuit2"
+            "CY",
+            "dc"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -33010,12 +33064,12 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 61,
         "PathName": "Hina_Swimsuit",
         "DevName": "CH0063",
-        "Name": "日奈(泳装)",
+        "Name": "日奈（泳装）",
         "School": "Gehenna",
         "Club": "Fuuki",
         "StarGrade": 3,
@@ -33039,13 +33093,13 @@
         "CollectionBG": "BG_Swimsuit_Collection",
         "FamilyName": "空崎",
         "PersonalName": "日奈",
-        "SchoolYear": "3年级",
+        "SchoolYear": "第3年",
         "CharacterAge": "17岁",
         "Birthday": "2月19日",
-        "CharacterSSRNew": "夏天到了，该做的事依然没有改变。",
-        "ProfileIntroduction": "为了夏季合宿训练来到海边的格黑娜学园风纪委员长。\n\n虽然是个觉得所有的事情都很麻烦的懒癌少女，但为了这次的训练，提起斗志来到了海边。因为很少会有敌人来到海边，所以泳装和泳圈都已经比较老旧。她也稍微注意了一下，这些东西是否都还可以使用。除此之外，即便是夏天，即便舞台变成了海边，她在维持秩序上依然是毫不犹豫。",
+        "CharacterSSRNew": "虽然夏天到了，但该做的事情还是一样。",
+        "ProfileIntroduction": "为了夏季集训而来到海滩的歌赫娜风纪委员长。\n\n虽然凡事都嫌麻烦，但为了这次训练，还是鼓足干劲来到了海滩。几乎没有去过大海，因此泳装和泳圈都是很久以前用过的。她对它们的尺寸至今依然合适这件事，悄悄地有些介意。除此之外，即便是夏日的海滩也丝毫没有影响到她维持纪律的决心。",
         "Hobby": "睡眠、休息",
-        "CharacterVoice": "广桥凉",
+        "CharacterVoice": "广桥凉/王雅欣",
         "BirthDay": "2/19",
         "Illustrator": "DoReMi",
         "Designer": "DoReMi",
@@ -33100,7 +33154,7 @@
             },
             {
                 "SkillType": "ex",
-                "Name": "远洋：伊施波设",
+                "Name": "滨海：伊施波设",
                 "Desc": "对扇形范围内至多5名敌方单位各造成攻击力<?1>的伤害",
                 "Parameters": [
                     [
@@ -33167,7 +33221,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "投掷&击倒",
+                "Name": "K.O.投掷",
                 "Desc": "每20秒对1名敌方单位造成攻击力<?1>的伤害/\n并施加<c:Stunned>状态(持续<?2>)",
                 "Parameters": [
                     [
@@ -33305,7 +33359,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "冷酷的风纪委员会",
+                "Name": "无情的风纪委员会",
                 "Desc": "<b:CriticalChance>提升<?1>",
                 "Parameters": [
                     [
@@ -33343,7 +33397,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "冷酷的风纪委员会+",
+                "Name": "无情的风纪委员会+",
                 "Desc": "<b:OppressionPower>提升<?1>/\n<b:CriticalChance>提升<?2>",
                 "Parameters": [
                     [
@@ -33393,7 +33447,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "先发制人",
+                "Name": "维护纪律",
                 "Desc": "使用EX技能时，<b:ATK>提升<?1>(至多叠加5层)",
                 "Parameters": [
                     [
@@ -33493,13 +33547,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Mystery"
+            "CX",
+            "Cx",
+            "aW"
         ],
         "FavorItemUniqueTags": [
-            "F_Hina_swimsuit",
-            "F_Hina_swimsuit2"
+            "cA",
+            "dd"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -33681,12 +33735,12 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 62,
         "PathName": "Iori_Swimsuit",
         "DevName": "CH0064",
-        "Name": "伊织(泳装)",
+        "Name": "伊织（泳装）",
         "School": "Gehenna",
         "Club": "Fuuki",
         "StarGrade": 3,
@@ -33710,13 +33764,13 @@
         "CollectionBG": "BG_Swimsuit_Collection",
         "FamilyName": "银镜",
         "PersonalName": "伊织",
-        "SchoolYear": "2年级",
+        "SchoolYear": "第2年",
         "CharacterAge": "16岁",
         "Birthday": "11月8日",
-        "CharacterSSRNew": "应该没有笨蛋会沉醉于海边的气氛不小心违反校规吧？",
-        "ProfileIntroduction": "参加夏季合宿训练的格黑娜风纪委员会残酷的专家。\n\n与其他风纪委员一起监视着格黑娜的问题份子，让她们在海边无法闯祸。表面上很平静，但因为笨蛋不停地出现，难得的夏日合宿变成一团乱，内心非常不满意。",
-        "Hobby": "巡查、斥骂",
-        "CharacterVoice": "佐仓绫音",
+        "CharacterSSRNew": "这里没有一玩上头就违反规则的蠢货吧？",
+        "ProfileIntroduction": "歌赫娜风纪委员会所属的冷酷专家，正在参加夏季集训。\n\n和其他风纪委员一起监控着歌赫娜的问题儿童，以防她们在海滩闹事。虽然表面上不露声色，但内心对难得的夏日集训被一群笨蛋问题儿童搞砸这件事感到相当不满。",
+        "Hobby": "巡逻、训斥人",
+        "CharacterVoice": "佐仓绫音/兰笛Saku",
         "BirthDay": "11/8",
         "Illustrator": "Mx2J",
         "Designer": "Mx2J",
@@ -33814,7 +33868,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "快刀乱麻",
+                "Name": "快刀斩乱麻",
                 "Desc": "每25秒对1名敌方单位造成攻击力<?1>的伤害/\n并施加攻击力<?2>的<d:Chill>状态(持续20秒)",
                 "Parameters": [
                     [
@@ -33884,7 +33938,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "精准射击",
+                "Name": "精确瞄准",
                 "Desc": "<b:ATK>提升<?1>",
                 "Parameters": [
                     [
@@ -33922,7 +33976,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "精准射击+",
+                "Name": "精确瞄准+",
                 "Desc": "<b:ATK>提升<?1>/\n<b:ATK>提升<?2>",
                 "Parameters": [
                     [
@@ -33972,7 +34026,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "杀鸡儆猴",
+                "Name": "专家的威慑",
                 "Desc": "攻击时，25%概率对目标施加攻击力<?1>的<d:Chill>状态\n(持续20秒)(冷却10秒)",
                 "Parameters": [
                     [
@@ -34060,13 +34114,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Dessert",
-            "Army"
+            "CX",
+            "Cx",
+            "aJ",
+            "as"
         ],
         "FavorItemUniqueTags": [
-            "F_Iori_swimsuit"
+            "ca"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -34217,12 +34271,12 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 63,
         "PathName": "Izumi_Swimsuit",
         "DevName": "Izumi_swimsuit",
-        "Name": "泉(泳装)",
+        "Name": "泉（泳装）",
         "School": "Gehenna",
         "Club": "GourmetClub",
         "StarGrade": 1,
@@ -34246,13 +34300,13 @@
         "CollectionBG": "BG_Swimsuit_Collection",
         "FamilyName": "狮子堂",
         "PersonalName": "泉",
-        "SchoolYear": "2年级",
+        "SchoolYear": "第2年",
         "CharacterAge": "16岁",
         "Birthday": "5月11日",
         "CharacterSSRNew": "",
-        "ProfileIntroduction": "格黑娜美食研究会的一员，在炎热的夏天也食欲旺盛的吃货少女。\n\n迎接夏天，一手拿着西瓜，一手拿着冰桶，为了寻找著名的夏季风味，这次特意来到了基沃托斯海边。巧克力口味烤鳗鱼、辣味刨冰、撒了薄荷巧克力的西瓜等等。在基沃托斯也追求着天下第一的各种特别风味的那位少女的怪食探究活动，在炎热的夏天海边也依旧持续。",
-        "Hobby": "制作古怪食物、吃古怪食物",
-        "CharacterVoice": "久保百合花",
+        "ProfileIntroduction": "歌赫娜学院美食研究会所属，就算是在炎炎夏日也能保持绝佳胃口的少女。\n\n为了寻找夏天的美食，她带着装有西瓜的冷柜，来到了基沃托斯的海边。巧克力烤鳗鱼、变态辣刨冰、加了薄荷巧克力的西瓜，少女寻找着这些季节特色菜品。她对美食的那份热情，绝不输夏日的骄阳与酷暑。",
+        "Hobby": "制作黑暗料理、享用黑暗料理",
+        "CharacterVoice": "久保百合花/嘉儿",
         "BirthDay": "5/11",
         "Illustrator": "Mx2J",
         "Designer": "Mx2J",
@@ -34305,7 +34359,7 @@
             },
             {
                 "SkillType": "ex",
-                "Name": "清凉椰汁！",
+                "Name": "凉凉的椰汁！",
                 "Desc": "对1名敌方单位投掷椰子，造成攻击力<?1>的伤害/\n目标周围圆形范围内存在其他敌方单位时，椰子将继续弹跳至该单位并造成同样的伤害\n(每次弹跳伤害衰减10%)(至多弹跳5次)/\n对目标施加<c:Stunned>状态(持续<?2>)",
                 "Parameters": [
                     [
@@ -34367,7 +34421,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "酸甜可口！",
+                "Name": "酸酸甜甜，美味可口！",
                 "Desc": "每35秒，<b:ATK>提升<?1>(持续30秒)",
                 "Parameters": [
                     [
@@ -34451,7 +34505,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "来，吃饱后再加把劲吧～！",
+                "Name": "吃完这个后可要加油哦！",
                 "Desc": "<b:AttackSpeed>提升<?1>",
                 "Parameters": [
                     [
@@ -34489,7 +34543,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "来，吃饱后再加把劲吧～！+",
+                "Name": "吃完这个后可要加油哦！+",
                 "Desc": "<b:Stability>提升<?1>/\n<b:AttackSpeed>提升<?2>",
                 "Parameters": [
                     [
@@ -34539,7 +34593,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "好吃到令人头晕呢～！",
+                "Name": "虽然好吃，但也会晕晕的哦~",
                 "Desc": "攻击时，10%概率对目标施加<c:Stunned>状态\n(持续<?1>)(冷却20秒)",
                 "Parameters": [
                     [
@@ -34626,13 +34680,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Dessert",
-            "Freakish"
+            "CX",
+            "Cx",
+            "aJ",
+            "aP"
         ],
         "FavorItemUniqueTags": [
-            "F_Izumi_swimsuit"
+            "cB"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -35213,11 +35267,11 @@
             []
         ],
         "FavorItemTags": [
-            "Sports",
-            "Roman"
+            "aj",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Shiroko_RidingSuit"
+            "cb"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -35368,12 +35422,12 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 65,
         "PathName": "Shun_Small",
         "DevName": "CH0066",
-        "Name": "瞬(幼女)",
+        "Name": "瞬（小）",
         "School": "Shanhaijing",
         "Club": "Meihuayuan",
         "StarGrade": 3,
@@ -35397,18 +35451,18 @@
         "CollectionBG": "BG_CH0066_Collection",
         "FamilyName": "春原",
         "PersonalName": "瞬",
-        "SchoolYear": "3年级",
-        "CharacterAge": "机密",
+        "SchoolYear": "第3年",
+        "CharacterAge": "绝密",
         "Birthday": "2月5日",
-        "CharacterSSRNew": "娇小的身体果然方便！",
-        "ProfileIntroduction": "喝了纱绫的秘药后重返童年时期的身体的梅花园教官。\n\n虽然身体变年轻了，但是精神没有改变，所以虽然想像有点年纪的人一样稳重地行动…\n年轻的身体不知为何地总把她引向本能。",
+        "CharacterSSRNew": "个子小就是方便！",
+        "ProfileIntroduction": "梅花园的教官，喝了纱绫的秘药后身体变回了小孩子的样子。\n\n身体虽然变小了，心理却没变，所以她希望表现得像成年人一样稳重……\n年幼身体的本能总是牵着她的鼻子走。",
         "Hobby": "吃甜食",
-        "CharacterVoice": "伊藤静",
+        "CharacterVoice": "伊藤静/秦紫翼",
         "BirthDay": "2/5",
         "Illustrator": "9ml",
         "Designer": "9ml",
-        "CharHeightMetric": "未測定",
-        "CharHeightImperial": "未測定",
+        "CharHeightMetric": "未测量",
+        "CharHeightImperial": "未测量",
         "StabilityPoint": 1992,
         "AttackPower1": 419,
         "AttackPower100": 4192,
@@ -35452,7 +35506,7 @@
             },
             {
                 "SkillType": "ex",
-                "Name": "这样做不行哦？",
+                "Name": "坏人在哪呢？",
                 "Desc": "对1名敌方单位造成攻击力<?1>的伤害(无视目标<?2>防御力)",
                 "Parameters": [
                     [
@@ -35503,7 +35557,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "那样很危险！",
+                "Name": "危险，不能碰！",
                 "Desc": "每25秒对1名敌方单位造成攻击力<?1>的伤害",
                 "Parameters": [
                     [
@@ -35607,7 +35661,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "气宇轩昂",
+                "Name": "活力满满的小朋友",
                 "Desc": "<b:AttackSpeed>提升<?1>",
                 "Parameters": [
                     [
@@ -35645,7 +35699,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "气宇轩昂+",
+                "Name": "活力满满的小朋友+",
                 "Desc": "<b:ATK>提升<?1>/\n<b:AttackSpeed>提升<?2>",
                 "Parameters": [
                     [
@@ -35695,7 +35749,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "重心不稳",
+                "Name": "沉重的枪",
                 "Desc": "使用EX技能后，<d:ATK>降低21.7%(持续20秒)/\n20秒后，<b:ATK>提升<?1>(持续20秒)",
                 "Parameters": [
                     [
@@ -35796,11 +35850,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Doll"
+            "aJ",
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Shun_Kid"
+            "ce"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -35982,7 +36036,7 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 66,
         "PathName": "Kirino",
@@ -36011,13 +36065,13 @@
         "CollectionBG": "BG_Valkyrie_Collection",
         "FamilyName": "中务",
         "PersonalName": "桐乃",
-        "SchoolYear": "1年级",
+        "SchoolYear": "第1年",
         "CharacterAge": "15岁",
         "Birthday": "10月22日",
         "CharacterSSRNew": "",
-        "ProfileIntroduction": "瓦尔基里警察学院生活安全局的热血警察学生。\n\n对维持着学园都市治安的前辈们抱有憧憬而考上了瓦尔基里警察学院，但由于射击技术差，只好调到闲职人员生活安全局。\n但是她依然没有放弃成为帅气制服犯人的警察的梦想，并且在各方面持续努力。",
-        "Hobby": "探访美食店",
-        "CharacterVoice": "中岛优衣",
+        "ProfileIntroduction": "瓦尔基丽生活安全局的热血警校生。\n\n憧憬着维持联合都市治安的前辈们的英姿，进入了瓦尔基丽，但因枪法太差，又被迫调到了生活安全局的闲职。\n不过她仍然没有放弃成为警员，帅气地制服罪犯的梦想，仍在各个方面坚持努力。",
+        "Hobby": "美食探店",
+        "CharacterVoice": "中岛优衣/Kiyo",
         "BirthDay": "10/22",
         "Illustrator": "DoReMi",
         "Designer": "日下雲",
@@ -36066,7 +36120,7 @@
             },
             {
                 "SkillType": "ex",
-                "Name": "谈判到此为止……！",
+                "Name": "谈判到此为止！",
                 "Desc": "对圆形范围内的敌方单位造成攻击力<?1>的伤害/\n释放烟雾(持续20秒)，令其范围内的敌方单位<d:HIT>降低<?2>",
                 "Parameters": [
                     [
@@ -36130,7 +36184,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "快速镇压！",
+                "Name": "制止暴力！",
                 "Desc": "每20秒对1名<b>距离自身</b>最远的敌方单位造成攻击力<?1>的伤害/\n<d:HIT>降低<?2>(持续13秒)",
                 "Parameters": [
                     [
@@ -36201,7 +36255,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "随机应变！",
+                "Name": "治疗要迅速！",
                 "Desc": "<b:MAXHP>提升<?1>",
                 "Parameters": [
                     [
@@ -36239,7 +36293,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "随机应变！+",
+                "Name": "治疗要迅速！+",
                 "Desc": "<b:AttackSpeed>提升<?1>/\n<b:MAXHP>提升<?2>",
                 "Parameters": [
                     [
@@ -36376,12 +36430,12 @@
             []
         ],
         "FavorItemTags": [
-            "Delicious",
-            "Simplicity"
+            "ao",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Kirino_default",
-            "F_Kirino_default2"
+            "cF",
+            "dH"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -36532,12 +36586,12 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 67,
         "PathName": "Saya_Casual",
         "DevName": "Saya_Casual",
-        "Name": "纱绫(私服)",
+        "Name": "纱绫（便服）",
         "School": "Shanhaijing",
         "Club": "Endanbou",
         "StarGrade": 3,
@@ -36559,15 +36613,15 @@
             "Watch"
         ],
         "CollectionBG": "BG_Saya_casual_Collection",
-        "FamilyName": "叶子",
+        "FamilyName": "药子",
         "PersonalName": "纱绫",
-        "SchoolYear": "2年级",
+        "SchoolYear": "第2年",
         "CharacterAge": "16岁",
         "Birthday": "1月3日",
-        "CharacterSSRNew": "天才也需要休息。呼-呼-呼。",
-        "ProfileIntroduction": "摆脱忙碌的日常生活，难得度过悠闲假日的山海经的天才发明家。\n\n与平时只会躲在研究室埋头研究新药的样貌不同，假日的纱绫非常活跃，甚至可以玩着滑板穿梭在街上。\n但是，不断探索新事物的那位少女，对知识的好奇心在休息日也没有改变。",
-        "Hobby": "研究",
-        "CharacterVoice": "田村由香里",
+        "CharacterSSRNew": "天才也需要休息，哈—哈—哈！",
+        "ProfileIntroduction": "摆脱了繁忙的日常，享受着久违的休假的山海经天才发明家。\n\n与平时一头扎进研究室专心研制新药的样子不同，休息日里的纱绫很活跃，甚至还会踏着滑板穿梭在街头。\n不过，她不断探究新事物的求知欲在休息日也丝毫未变。",
+        "Hobby": "做研究",
+        "CharacterVoice": "田村由加莉/王晓彤",
         "BirthDay": "1/3",
         "Illustrator": "whoisshe",
         "Designer": "whoisshe",
@@ -36593,7 +36647,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "这是我的礼物哒！",
+                "Name": "这是小爷我的礼物！",
                 "Desc": "对直线范围内的敌方单位造成攻击力<?1>的持续伤害(持续20秒)",
                 "Parameters": [
                     [
@@ -36663,7 +36717,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "探究永无止境！",
+                "Name": "实验永无止境！",
                 "Desc": "每30秒对圆形范围内的敌方单位造成攻击力<?1>的伤害",
                 "Parameters": [
                     [
@@ -36785,7 +36839,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "专注的秘药",
+                "Name": "专注力秘药",
                 "Desc": "<b:CriticalDamage>提升<?1>",
                 "Parameters": [
                     [
@@ -36823,7 +36877,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "专注的秘药+",
+                "Name": "专注力秘药＋",
                 "Desc": "<b:Stability>提升<?1>/\n<b:CriticalDamage>提升<?2>",
                 "Parameters": [
                     [
@@ -36873,7 +36927,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "绝对不是什么可疑的药！",
+                "Name": "这药哪里可疑啦！",
                 "Desc": "编队内所有学生<b:CriticalDamage>提升<?1>",
                 "Parameters": [
                     [
@@ -36962,12 +37016,12 @@
             []
         ],
         "FavorItemTags": [
-            "Delicious",
-            "CuriousFellow"
+            "ao",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Saya_Casual",
-            "F_Saya_Casual2"
+            "cf",
+            "dm"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -37565,7 +37619,7 @@
         "MemoryLobby": [
             3,
             3,
-            3
+            0
         ],
         "MemoryLobbyBGM": "Koi is Love",
         "FurnitureInteraction": [
@@ -37584,11 +37638,11 @@
             []
         ],
         "FavorItemTags": [
-            "Game"
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Neru_BunnyGirl",
-            "F_Neru_BunnyGirl2"
+            "cG",
+            "dl"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -38119,7 +38173,7 @@
         "MemoryLobby": [
             2,
             2,
-            2
+            0
         ],
         "MemoryLobbyBGM": "Bunny Bunny Carrot Carrot",
         "FurnitureInteraction": [
@@ -38138,11 +38192,11 @@
             []
         ],
         "FavorItemTags": [
-            "Doll"
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Karin_BunnyGirl",
-            "F_Karin_BunnyGirl2"
+            "cg",
+            "dg"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -38707,7 +38761,7 @@
         "MemoryLobby": [
             2,
             2,
-            2
+            0
         ],
         "MemoryLobbyBGM": "Bunny Bunny Carrot Carrot",
         "FurnitureInteraction": [
@@ -38726,11 +38780,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert"
+            "aJ"
         ],
         "FavorItemUniqueTags": [
-            "F_Asuna_BunnyGirl",
-            "F_Asuna_BunnyGirl2"
+            "cH",
+            "DY"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -38912,7 +38966,7 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 71,
         "PathName": "Natsu",
@@ -38941,13 +38995,13 @@
         "CollectionBG": "BG_Trinity_Collection",
         "FamilyName": "柚鸟",
         "PersonalName": "夏",
-        "SchoolYear": "1年级",
+        "SchoolYear": "第1年",
         "CharacterAge": "15岁",
         "Birthday": "12月4日",
-        "CharacterSSRNew": "你对奶油蛋糕有什么研究吗？老师，",
-        "ProfileIntroduction": "三一放学后甜点部的一员，麻烦制造者之首，自称浪漫主义者。\n\n习惯是说些很哲学的妙语，以及用甜点作比喻来表达观点。纵使老是说些令人摸不着头绪的话，让身边的人感到为难，不过其中包含着她想和所有人共享浪漫的纯真心意。只是她所谓的“浪漫”定义经常变来变去，因此从旁观者的角度看来，也无法否认所有人都被夏“耍着玩”的印象。",
-        "Hobby": "浪漫的事物、思索",
-        "CharacterVoice": "长绳麻理亚",
+        "CharacterSSRNew": "……老师，你有没有研究过奶油蛋糕？",
+        "ProfileIntroduction": "崔尼蒂甜点部的一员，惹是生非第一名，却自称为浪漫主义者。\n\n会莫名其妙地说出一些有哲理的话，凡事都喜欢用甜点来打比方。每当她说出天马行空的话时，周围的人都会觉得很尴\n尬 ，但其实她只是单纯地想和大家一起分享浪漫而已。由于她对“浪漫”的定义总是不断变化，因此在旁人看来，所有人都被夏搞得晕头转向。",
+        "Hobby": "浪漫的东西、思考",
+        "CharacterVoice": "长绳麻理亚/鱼一",
         "BirthDay": "12/4",
         "Illustrator": "kokosando",
         "Designer": "kokosando",
@@ -39002,7 +39056,7 @@
             },
             {
                 "SkillType": "ex",
-                "Name": "此刻的珍藏",
+                "Name": "秘藏王牌",
                 "Desc": "回复自身治愈力<?1>的生命值/\n并解除1个减益状态",
                 "Parameters": [
                     [
@@ -39037,7 +39091,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "吃下去后就打起精神来——",
+                "Name": "来口这个吧！",
                 "Desc": "每30秒向<b>距离自身</b>最近的1名我方单位抛出馅饼，令其<b:ATK>提升<?1>(持续20秒)/\n目标周围存在除自身外的我方单位时，馅饼将继续弹跳至该单位并造成同样的效果(至多弹跳3次)",
                 "Parameters": [
                     [
@@ -39086,7 +39140,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "肚子饿了的话……！",
+                "Name": "要吃饱才行！",
                 "Desc": "<b:MAXHP>提升<?1>",
                 "Parameters": [
                     [
@@ -39124,7 +39178,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "肚子饿了的话……！+",
+                "Name": "要吃饱才行！+",
                 "Desc": "<b:MAXHP>提升<?1>/\n<b:MAXHP>提升<?2>",
                 "Parameters": [
                     [
@@ -39174,7 +39228,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "大饱口福",
+                "Name": "填满嘴巴的幸福感",
                 "Desc": "使用EX技能后，<b:HealEffectiveness>提升<?1>(至多叠加3次)",
                 "Parameters": [
                     [
@@ -39269,14 +39323,19 @@
                     0
                 ]
             ],
-            []
+            [
+                [
+                    3301,
+                    0
+                ]
+            ]
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Roman"
+            "aJ",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Natsu"
+            "ci"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -39427,7 +39486,7 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 72,
         "PathName": "Mari",
@@ -39456,13 +39515,13 @@
         "CollectionBG": "BG_Trinity_Collection",
         "FamilyName": "伊落",
         "PersonalName": "玛丽",
-        "SchoolYear": "1年级",
+        "SchoolYear": "第1年",
         "CharacterAge": "15岁",
         "Birthday": "9月12日",
         "CharacterSSRNew": "",
-        "ProfileIntroduction": "隶属于修女会，慈祥可爱的少女。\n\n无论何时都以善良且温和的微笑迎接三一的学生们。即使给人可爱的印象，其实个性稳重，有着让人放松的气质，所以许多学生都会来找她谘商。总是深感于自己有所不足，梦想着有一天能成为像其他前辈一样了不起的修女。",
-        "Hobby": "祈祷、思索",
-        "CharacterVoice": "小泽亚李",
+        "ProfileIntroduction": "姐妹会的成员，正直又仁慈的少女。\n\n总是以善良温柔的微笑对待崔尼蒂的所有人。外表温婉可爱，有一种能让人平心静气的氛围，因此有很多人找她倾诉烦恼。总是认为自己有很多不足之处，梦想是成为和其他前辈一样优秀的修女。",
+        "Hobby": "祷告、思考",
+        "CharacterVoice": "小泽亚李/曹雅雯",
         "BirthDay": "9/12",
         "Illustrator": "DoReMi",
         "Designer": "Vinoker",
@@ -39488,7 +39547,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "神圣加护",
+                "Name": "神圣的庇护",
                 "Desc": "赋予1名我方单位治愈力<?1>的<b:Shield>(持续20秒)/\n并解除1个减益状态",
                 "Parameters": [
                     [
@@ -39524,7 +39583,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "净化洗礼",
+                "Name": "净化的洗礼",
                 "Desc": "每25秒对圆形范围内的敌方单位造成攻击力<?1>的伤害",
                 "Parameters": [
                     [
@@ -39570,7 +39629,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "决然之意",
+                "Name": "坚定的决心",
                 "Desc": "<b:CriticalChance>提升<?1>",
                 "Parameters": [
                     [
@@ -39608,7 +39667,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "决然之意+",
+                "Name": "坚定的决心+",
                 "Desc": "<b:CriticalChance>提升<?1>/\n<b:CriticalChance>提升<?2>",
                 "Parameters": [
                     [
@@ -39658,7 +39717,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "慈爱之心",
+                "Name": "慈爱的祝福",
                 "Desc": "编队内所有学生<b:MAXHP>提升<?1>",
                 "Parameters": [
                     [
@@ -39762,14 +39821,19 @@
                     2
                 ]
             ],
-            []
+            [
+                [
+                    1105,
+                    0
+                ]
+            ]
         ],
         "FavorItemTags": [
-            "Horticulture",
-            "Simplicity"
+            "aN",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Mari"
+            "cK"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -40259,7 +40323,7 @@
         "MemoryLobby": [
             6,
             6,
-            6
+            0
         ],
         "MemoryLobbyBGM": "Blue New World",
         "FurnitureInteraction": [
@@ -40269,7 +40333,7 @@
         ],
         "FavorItemTags": [],
         "FavorItemUniqueTags": [
-            "F_Miku"
+            "cJ"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -40444,7 +40508,7 @@
         "IsReleased": [
             true,
             true,
-            false
+            true
         ],
         "DefaultOrder": 74,
         "PathName": "Ako",
@@ -40473,13 +40537,13 @@
         "CollectionBG": "BG_Gehenna_Collection",
         "FamilyName": "天雨",
         "PersonalName": "亚子",
-        "SchoolYear": "3年级",
+        "SchoolYear": "第3年",
         "CharacterAge": "17岁",
         "Birthday": "12月22日",
-        "CharacterSSRNew": "只要有我在，就绝不容许任何失误。",
-        "ProfileIntroduction": "格黑娜学园风纪委员会的上级行政官，也是风纪委员长日奈的秘书。\n形影不离地在日奈身边辅佐她。乍看之下给人亲切善良的印象，不过处置违反校规者时会露出冷酷无情的一面，不留任何情面。时常被格黑娜的学生们蔑称为“委员长的狗”，然而本人不怎么放在心上。",
+        "CharacterSSRNew": "既然我出面协助了，就绝不容许出现失误哦？",
+        "ProfileIntroduction": "歌赫娜风纪委员会的首席行政官，风纪委员长日奈的秘书。\n\n总是在日奈的身边辅佐她。看起来好像是一名温柔善良的少女，但对违反规章的人丝毫不会手下留情。在歌赫娜常被人称为“日奈的宠物”，但她本人对此并不在意。",
         "Hobby": "日奈",
-        "CharacterVoice": "高野麻里佳",
+        "CharacterVoice": "高野麻里佳/括号君",
         "BirthDay": "12/22",
         "Illustrator": "DoReMi",
         "Designer": "DoReMi",
@@ -40505,7 +40569,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "侦察情报共享",
+                "Name": "共享侦察数据",
                 "Desc": "令1名我方单位<b:CriticalChance>提升<?1>，<b:CriticalDamage>提升<?2>(持续16秒)",
                 "Parameters": [
                     [
@@ -40566,7 +40630,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "补给计划B",
+                "Name": "补给作战B计划",
                 "Desc": "每45秒令1名<b>当前生命值百分比</b>最低的我方单位回复治愈力<?1>的生命值",
                 "Parameters": [
                     [
@@ -40605,7 +40669,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "支援作战开始",
+                "Name": "补给支援，开始",
                 "Desc": "<b:HealPower>提升<?1>",
                 "Parameters": [
                     [
@@ -40643,7 +40707,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "支援作战开始+",
+                "Name": "补给支援，开始+",
                 "Desc": "<b:HealPower>提升<?1>/\n<b:HealPower>提升<?2>",
                 "Parameters": [
                     [
@@ -40693,7 +40757,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "支援就交给我吧",
+                "Name": "战术辅助，开始",
                 "Desc": "编队内所有学生<b:CriticalDamage>提升<?1>",
                 "Parameters": [
                     [
@@ -40787,14 +40851,19 @@
                     0
                 ]
             ],
-            []
+            [
+                [
+                    1101,
+                    0
+                ]
+            ]
         ],
         "FavorItemTags": [
-            "Curios",
-            "Specialized"
+            "ak",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Ako"
+            "cj"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -41360,7 +41429,7 @@
         "MemoryLobby": [
             6,
             6,
-            6
+            0
         ],
         "MemoryLobbyBGM": "Koi is Love",
         "FurnitureInteraction": [
@@ -41379,12 +41448,12 @@
             []
         ],
         "FavorItemTags": [
-            "Roman",
-            "CuriousFellow"
+            "aV",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Cherino_Onsen",
-            "F_Cherino_Onsen2"
+            "cl",
+            "dA"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -41911,7 +41980,7 @@
         "MemoryLobby": [
             6,
             6,
-            6
+            0
         ],
         "MemoryLobbyBGM": "Midnight Trip",
         "FurnitureInteraction": [
@@ -41930,12 +41999,12 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Books",
-            "Humanities"
+            "ak",
+            "BB",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Chinatsu_Onsen"
+            "ck"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -42468,7 +42537,7 @@
         "MemoryLobby": [
             5,
             5,
-            5
+            0
         ],
         "MemoryLobbyBGM": "Midnight Trip",
         "FurnitureInteraction": [
@@ -42487,13 +42556,13 @@
             []
         ],
         "FavorItemTags": [
-            "Simplicity",
-            "Humanities",
-            "PureLiterature"
+            "BA",
+            "aT",
+            "aY"
         ],
         "FavorItemUniqueTags": [
-            "F_Tomoe",
-            "F_Tomoe2"
+            "cL",
+            "do"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -42978,7 +43047,7 @@
         "MemoryLobby": [
             6,
             6,
-            6
+            0
         ],
         "MemoryLobbyBGM": "Nesno wons",
         "FurnitureInteraction": [
@@ -42997,12 +43066,12 @@
             []
         ],
         "FavorItemTags": [
-            "Reservation",
-            "Dessert",
-            "Observational"
+            "aM",
+            "aJ",
+            "at"
         ],
         "FavorItemUniqueTags": [
-            "F_Nodoka_Onsen"
+            "cM"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -43515,7 +43584,7 @@
         "MemoryLobby": [
             5,
             5,
-            5
+            0
         ],
         "MemoryLobbyBGM": "Blue New Year",
         "FurnitureInteraction": [
@@ -43534,11 +43603,11 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Roman"
+            "ak",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Aru_Newyear"
+            "cm"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -44099,7 +44168,7 @@
         "MemoryLobby": [
             5,
             5,
-            5
+            0
         ],
         "MemoryLobbyBGM": "Blue New Year",
         "FurnitureInteraction": [
@@ -44118,11 +44187,11 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "CuriousFellow"
+            "al",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Mutsuki_Newyear"
+            "cN"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -44630,7 +44699,7 @@
         "MemoryLobby": [
             5,
             5,
-            5
+            0
         ],
         "MemoryLobbyBGM": "Midsummer cat",
         "FurnitureInteraction": [
@@ -44649,10 +44718,10 @@
             []
         ],
         "FavorItemTags": [
-            "Curios"
+            "ak"
         ],
         "FavorItemUniqueTags": [
-            "F_Serika_Newyear"
+            "cn"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -45220,11 +45289,11 @@
             []
         ],
         "FavorItemTags": [
-            "Doll"
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Wakamo",
-            "F_Wakamo2"
+            "co",
+            "dr"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -45791,11 +45860,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Delicious"
+            "aJ",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Fubuki"
+            "cQ"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -46305,12 +46374,12 @@
             []
         ],
         "FavorItemTags": [
-            "Bedding",
-            "Specialized"
+            "aK",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Sena",
-            "F_Sena2"
+            "cP",
+            "dN"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -46806,11 +46875,11 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Music"
+            "aL",
+            "aQ"
         ],
         "FavorItemUniqueTags": [
-            "F_Chihiro"
+            "cp"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -47430,13 +47499,13 @@
             []
         ],
         "FavorItemTags": [
-            "Household",
-            "Food",
-            "Fashion",
-            "Simplicity"
+            "am",
+            "ay",
+            "an",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Mimori"
+            "cq"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -47985,13 +48054,13 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "PureLiterature",
-            "Humanities"
+            "BB",
+            "aY",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Ui",
-            "F_Ui2"
+            "Dc",
+            "dq"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -48595,12 +48664,12 @@
             []
         ],
         "FavorItemTags": [
-            "Horticulture",
-            "Simplicity"
+            "aN",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Hinata",
-            "F_Hinata2"
+            "DD",
+            "dE"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -49175,11 +49244,11 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Doll"
+            "ak",
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Marina"
+            "Dd"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -49788,12 +49857,12 @@
             []
         ],
         "FavorItemTags": [
-            "Army",
-            "Humanities"
+            "as",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Miyako",
-            "F_Miyako2"
+            "De",
+            "dK"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -50368,12 +50437,12 @@
             []
         ],
         "FavorItemTags": [
-            "Army",
-            "Specialized",
-            "Curios"
+            "as",
+            "Ba",
+            "ak"
         ],
         "FavorItemUniqueTags": [
-            "F_Saki"
+            "Df"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -50872,12 +50941,12 @@
             []
         ],
         "FavorItemTags": [
-            "Army",
-            "Simplicity"
+            "as",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Miyu",
-            "F_Miyu2"
+            "DF",
+            "dk"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -51359,12 +51428,12 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "CuriousFellow",
-            "Game"
+            "al",
+            "av",
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Kaede"
+            "Dh"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -51862,11 +51931,11 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "Game"
+            "BB",
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Iroha"
+            "DI"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -52445,11 +52514,11 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Roman"
+            "ak",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Michiru"
+            "DH"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -53008,11 +53077,11 @@
             []
         ],
         "FavorItemTags": [
-            "Horticulture",
-            "CuriousFellow"
+            "aN",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Tsukuyo"
+            "Dg"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -53647,11 +53716,11 @@
             []
         ],
         "FavorItemTags": [
-            "Doll"
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Misaki",
-            "F_Misaki2"
+            "Di",
+            "dj"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -54198,10 +54267,10 @@
             []
         ],
         "FavorItemTags": [
-            "Household"
+            "am"
         ],
         "FavorItemUniqueTags": [
-            "F_Hiyori"
+            "Dj"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -54714,11 +54783,11 @@
             []
         ],
         "FavorItemTags": [
-            "Specialized"
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Atsuko",
-            "F_Atsuko2"
+            "DJ",
+            "Dy"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -55364,13 +55433,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Doll"
+            "CX",
+            "Cx",
+            "aw"
         ],
         "FavorItemUniqueTags": [
-            "F_Wakamo_Swimsuit",
-            "F_Wakamo_Swimsuit2"
+            "DK",
+            "dS"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -55693,13 +55762,36 @@
                         ]
                     },
                     {
-                        "Type": "IgnoreDelay",
-                        "Scale": [
+                        "Type": "FormChange",
+                        "Frames": {
+                            "AttackEnterDuration": 65,
+                            "AttackStartDuration": 35,
+                            "AttackEndDuration": 37,
+                            "AttackBurstRoundOverDelay": 40,
+                            "AttackIngDuration": 23,
+                            "AttackReloadDuration": 90
+                        },
+                        "Hits": [
+                            2000,
+                            2000,
+                            2000,
+                            2000,
+                            2000
+                        ],
+                        "IgnoreDelay": [
                             2,
                             2,
                             3,
                             3,
                             4
+                        ],
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            10000,
+                            10000,
+                            10000,
+                            10000,
+                            10000
                         ]
                     }
                 ]
@@ -55939,13 +56031,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Cosmetics",
-            "Girlish"
+            "CX",
+            "Cx",
+            "Bb",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Nonomi_Swimsuit"
+            "Dk"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -56478,13 +56570,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Books"
+            "CX",
+            "Cx",
+            "BB"
         ],
         "FavorItemUniqueTags": [
-            "F_Ayane_Swimsuit",
-            "F_Ayane_Swimsuit2"
+            "DL",
+            "DZ"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -57110,13 +57202,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Roman"
+            "CX",
+            "Cx",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Hoshino_Swimsuit",
-            "F_Hoshino_Swimsuit2"
+            "Ds",
+            "dF"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -57600,12 +57692,12 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Functional"
+            "CX",
+            "Cx",
+            "aO"
         ],
         "FavorItemUniqueTags": [
-            "F_Shizuko_Swimsuit"
+            "DU"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -58147,12 +58239,12 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Fashion"
+            "CX",
+            "Cx",
+            "an"
         ],
         "FavorItemUniqueTags": [
-            "F_Izuna_Swimsuit"
+            "DT"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -58873,13 +58965,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Books",
-            "PureLiterature"
+            "CX",
+            "Cx",
+            "BB",
+            "aY"
         ],
         "FavorItemUniqueTags": [
-            "F_Chise_Swimsuit"
+            "Dt"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -59472,11 +59564,11 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics",
-            "Girlish"
+            "Bb",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Saori"
+            "Du"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -60024,11 +60116,11 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Army"
+            "aL",
+            "as"
         ],
         "FavorItemUniqueTags": [
-            "F_Moe"
+            "dw"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -60567,12 +60659,12 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Delicious",
-            "Girlish"
+            "aJ",
+            "ao",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Kazusa"
+            "dv"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -61075,12 +61167,12 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Delicious"
+            "aJ",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Kokona",
-            "F_Kokona2"
+            "dW",
+            "dX"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -61653,12 +61745,12 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Observational"
+            "aL",
+            "at"
         ],
         "FavorItemUniqueTags": [
-            "F_Utaha_Cheerleader",
-            "F_Utaha_Cheerleader2"
+            "dZ",
+            "EB"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -62171,11 +62263,11 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "PureLiterature"
+            "BB",
+            "aY"
         ],
         "FavorItemUniqueTags": [
-            "F_Noa"
+            "Ea"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -62724,13 +62816,13 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Household",
-            "Music"
+            "aL",
+            "am",
+            "aQ"
         ],
         "FavorItemUniqueTags": [
-            "F_Hibiki_Cheerleader",
-            "F_Hibiki_Cheerleader2"
+            "dz",
+            "Eb"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -63225,12 +63317,12 @@
             []
         ],
         "FavorItemTags": [
-            "Household",
-            "Food"
+            "am",
+            "ay"
         ],
         "FavorItemUniqueTags": [
-            "F_Akane_BunnyGirl",
-            "F_Akane_BunnyGirl2"
+            "EA",
+            "EC"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -63776,10 +63868,10 @@
             []
         ],
         "FavorItemTags": [
-            "Smart"
+            "aZ"
         ],
         "FavorItemUniqueTags": [
-            "F_Yuuka_Track"
+            "Ec"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -64309,13 +64401,13 @@
             []
         ],
         "FavorItemTags": [
-            "Fashion",
-            "Horticulture",
-            "Simplicity"
+            "an",
+            "aN",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Mari_Track",
-            "F_Mari_Track2"
+            "ED",
+            "Ee"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -64844,12 +64936,12 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "BigMeal"
+            "aJ",
+            "az"
         ],
         "FavorItemUniqueTags": [
-            "F_Hasumi_Track",
-            "F_Hasumi_Track2"
+            "Ed",
+            "EF"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -65357,12 +65449,12 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Mystery"
+            "ak",
+            "aW"
         ],
         "FavorItemUniqueTags": [
-            "F_Himari",
-            "F_Himari2"
+            "EE",
+            "Ef"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -65964,12 +66056,12 @@
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Specialized"
+            "aO",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Shigure",
-            "F_Shigure2"
+            "Eh",
+            "EJ"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -66251,6 +66343,104 @@
                             }
                         ],
                         "Value": [
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
+                            [
+                                2724,
+                                3133,
+                                3541,
+                                3950,
+                                4359
+                            ],
                             [
                                 2724,
                                 3133,
@@ -66670,13 +66860,13 @@
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Bedding",
-            "Jellyz"
+            "aO",
+            "aK",
+            "aU"
         ],
         "FavorItemUniqueTags": [
-            "F_Serina_Holiday",
-            "F_Serina_Holiday2"
+            "EI",
+            "Ej"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -67340,12 +67530,12 @@
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Sports"
+            "aO",
+            "aj"
         ],
         "FavorItemUniqueTags": [
-            "F_Hanae_Holiday",
-            "F_Hanae_Holiday2"
+            "Ei",
+            "EK"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -67888,12 +68078,12 @@
             []
         ],
         "FavorItemTags": [
-            "Simplicity",
-            "Delicious"
+            "BA",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Haruna_Newyear",
-            "F_Haruna_Newyear2"
+            "EM",
+            "Em"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -68371,13 +68561,13 @@
             []
         ],
         "FavorItemTags": [
-            "Household",
-            "Food",
-            "Functional"
+            "am",
+            "ay",
+            "aO"
         ],
         "FavorItemUniqueTags": [
-            "F_Fuuka_Newyear",
-            "F_Fuuka_Newyear2"
+            "EP",
+            "Ep"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -68897,12 +69087,12 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Delicious"
+            "aJ",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Junko_Newyear",
-            "F_Junko_Newyear2"
+            "EO",
+            "Eo"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -69594,12 +69784,12 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics",
-            "Girlish"
+            "Bb",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Mine",
-            "F_Mine2"
+            "EN",
+            "En"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -69946,8 +70136,14 @@
                 "Icon": "COMMON_SKILLICON_TARGET",
                 "Effects": [
                     {
-                        "Type": "DMGSingle",
+                        "Type": "DMGMulti",
                         "CriticalCheck": "Always",
+                        "Hits": [
+                            3333,
+                            3333,
+                            3334
+                        ],
+                        "HitsParameter": 1,
                         "Scale": [
                             8945,
                             9395,
@@ -69962,14 +70158,8 @@
                         ]
                     },
                     {
-                        "Type": "DMGMulti",
+                        "Type": "DMGSingle",
                         "CriticalCheck": "Always",
-                        "Hits": [
-                            3333,
-                            3333,
-                            3334
-                        ],
-                        "HitsParameter": 1,
                         "Scale": [
                             17889,
                             18783,
@@ -70203,13 +70393,13 @@
             []
         ],
         "FavorItemTags": [
-            "Cosmetics",
-            "Dessert",
-            "Beauty"
+            "Bb",
+            "aJ",
+            "aS"
         ],
         "FavorItemUniqueTags": [
-            "F_Mika",
-            "F_Mika2"
+            "ET",
+            "Et"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -70515,6 +70705,39 @@
                         ],
                         "Stat": "AttackPower_Coefficient",
                         "Channel": 2
+                    },
+                    {
+                        "Type": "FormChange",
+                        "Frames": {
+                            "AttackEnterDuration": 26,
+                            "AttackStartDuration": 15,
+                            "AttackIngDuration": 55,
+                            "AttackEndDuration": 22,
+                            "AttackBurstRoundOverDelay": 45,
+                            "AttackReloadDuration": 64
+                        },
+                        "Hits": [
+                            2000,
+                            2000,
+                            2000,
+                            2000,
+                            2000
+                        ],
+                        "IgnoreDelay": [
+                            8492,
+                            8492,
+                            8492,
+                            8492,
+                            8492
+                        ],
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            10000,
+                            10000,
+                            10000,
+                            10000,
+                            10000
+                        ]
                     }
                 ]
             },
@@ -70831,12 +71054,12 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "CuriousFellow"
+            "al",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Megu",
-            "F_Megu2"
+            "EQ",
+            "Eq"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -71372,12 +71595,12 @@
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Specialized"
+            "aO",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Kanna",
-            "F_Kanna2"
+            "ES",
+            "Es"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -71918,11 +72141,11 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert"
+            "aJ"
         ],
         "FavorItemUniqueTags": [
-            "F_Sakurako",
-            "F_Sakurako2"
+            "ER",
+            "Er"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -72245,6 +72468,14 @@
                             2213,
                             2213,
                             2219
+                        ],
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            10000,
+                            10000,
+                            10000,
+                            10000,
+                            10000
                         ]
                     },
                     {
@@ -72799,12 +73030,12 @@
             []
         ],
         "FavorItemTags": [
-            "Sports",
-            "Specialized"
+            "aj",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Toki",
-            "F_Toki2"
+            "Eu",
+            "EV"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -73368,12 +73599,12 @@
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "Delicious"
+            "ak",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Nagisa",
-            "F_Nagisa2"
+            "Ew",
+            "EX"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -74036,13 +74267,13 @@
             []
         ],
         "FavorItemTags": [
-            "Toy",
-            "Smart",
-            "Mystery"
+            "al",
+            "aZ",
+            "aW"
         ],
         "FavorItemUniqueTags": [
-            "F_Koyuki",
-            "F_Koyuki2"
+            "Ev",
+            "EW"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -74606,14 +74837,14 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Music",
-            "Fashion",
-            "Simplicity"
+            "aL",
+            "aQ",
+            "an",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Kayoko_Newyear",
-            "F_Kayoko_Newyear2"
+            "Ex",
+            "EY"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -75133,12 +75364,12 @@
             []
         ],
         "FavorItemTags": [
-            "Horticulture",
-            "CuriousFellow"
+            "aN",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Haruka_Newyear",
-            "F_Haruka_Newyear2"
+            "Ey",
+            "EZ"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -75667,12 +75898,12 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "PureLiterature"
+            "BB",
+            "aY"
         ],
         "FavorItemUniqueTags": [
-            "F_Kaho",
-            "F_Kaho2"
+            "Ez",
+            "eA"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -76213,13 +76444,13 @@
             []
         ],
         "FavorItemTags": [
-            "Game",
-            "Fashion",
-            "Toy"
+            "aR",
+            "an",
+            "al"
         ],
         "FavorItemUniqueTags": [
-            "F_Aris_Maid",
-            "F_Aris_Maid2"
+            "eB",
+            "eb"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -76778,12 +77009,12 @@
             []
         ],
         "FavorItemTags": [
-            "Sports",
-            "Specialized"
+            "aj",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Toki_BunnyGirl",
-            "F_Toki_BunnyGirl2"
+            "eD",
+            "ed"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -77295,12 +77526,12 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Game"
+            "aL",
+            "aR"
         ],
         "FavorItemUniqueTags": [
-            "F_Yuzu_Maid",
-            "F_Yuzu_Maid2"
+            "eC",
+            "ec"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -77900,13 +78131,13 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Music",
-            "Dessert"
+            "aL",
+            "aQ",
+            "aJ"
         ],
         "FavorItemUniqueTags": [
-            "F_Reisa",
-            "F_Reisa2"
+            "eE",
+            "ee"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -78056,7 +78287,7 @@
         "Id": 10069,
         "IsReleased": [
             true,
-            false,
+            true,
             false
         ],
         "DefaultOrder": 140,
@@ -78097,7 +78328,7 @@
         "Illustrator": "カンザリン",
         "Designer": "カンザリン",
         "CharHeightMetric": "168cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5'6\"",
         "StabilityPoint": 1316,
         "AttackPower1": 134,
         "AttackPower100": 1346,
@@ -78449,7 +78680,7 @@
         "FavorAlts": [],
         "MemoryLobby": [
             6,
-            0,
+            6,
             0
         ],
         "MemoryLobbyBGM": "Walkthrough",
@@ -78460,16 +78691,21 @@
                     0
                 ]
             ],
-            [],
+            [
+                [
+                    210305,
+                    0
+                ]
+            ],
             []
         ],
         "FavorItemTags": [
-            "Fashion",
-            "Food"
+            "an",
+            "ay"
         ],
         "FavorItemUniqueTags": [
-            "F_Rumi",
-            "F_Rumi2"
+            "eg",
+            "eH"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -78619,7 +78855,7 @@
         "Id": 10070,
         "IsReleased": [
             true,
-            false,
+            true,
             false
         ],
         "DefaultOrder": 141,
@@ -78660,7 +78896,7 @@
         "Illustrator": "MISOM150",
         "Designer": "MISOM150",
         "CharHeightMetric": "166cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5'5\"",
         "StabilityPoint": 952,
         "AttackPower1": 157,
         "AttackPower100": 1571,
@@ -78719,9 +78955,9 @@
                     ],
                     [
                         "",
+                        "",
                         "、<d:Dodge>",
                         "、<d:Dodge>",
-                        "、<d:Dodge>与<d:HIT>",
                         "、<d:Dodge>与<d:HIT>"
                     ],
                     [
@@ -79144,7 +79380,7 @@
         "FavorAlts": [],
         "MemoryLobby": [
             5,
-            0,
+            5,
             0
         ],
         "MemoryLobbyBGM": "Theme 171",
@@ -79155,16 +79391,21 @@
                     0
                 ]
             ],
-            [],
+            [
+                [
+                    210306,
+                    0
+                ]
+            ],
             []
         ],
         "FavorItemTags": [
-            "Curios",
-            "CuriousFellow"
+            "ak",
+            "av"
         ],
         "FavorItemUniqueTags": [
-            "F_Mina",
-            "F_Mina2"
+            "eh",
+            "eI"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -79314,7 +79555,7 @@
         "Id": 20026,
         "IsReleased": [
             true,
-            false,
+            true,
             false
         ],
         "DefaultOrder": 142,
@@ -79355,7 +79596,7 @@
         "Illustrator": "7peach",
         "Designer": "二色こぺ",
         "CharHeightMetric": "158cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5'2\"",
         "StabilityPoint": 1592,
         "AttackPower1": 302,
         "AttackPower100": 3028,
@@ -79675,7 +79916,7 @@
         "FavorAlts": [],
         "MemoryLobby": [
             5,
-            0,
+            5,
             0
         ],
         "MemoryLobbyBGM": "Walkthrough",
@@ -79686,17 +79927,22 @@
                     0
                 ]
             ],
-            [],
+            [
+                [
+                    210307,
+                    0
+                ]
+            ],
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Books",
-            "Humanities"
+            "aO",
+            "BB",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Minori",
-            "F_Minori2"
+            "ei",
+            "eJ"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -79846,7 +80092,7 @@
         "Id": 10071,
         "IsReleased": [
             true,
-            false,
+            true,
             false
         ],
         "DefaultOrder": 143,
@@ -79887,7 +80133,7 @@
         "Illustrator": "7peach",
         "Designer": "7peach",
         "CharHeightMetric": "156cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5'1\"",
         "StabilityPoint": 1340,
         "AttackPower1": 153,
         "AttackPower100": 1533,
@@ -80208,7 +80454,7 @@
         ],
         "MemoryLobby": [
             6,
-            0,
+            6,
             0
         ],
         "MemoryLobbyBGM": "Midsummer cat",
@@ -80219,18 +80465,23 @@
                     0
                 ]
             ],
-            [],
+            [
+                [
+                    210310,
+                    0
+                ]
+            ],
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Army",
-            "Humanities"
+            "CX",
+            "Cx",
+            "as",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Miyako_Swimsuit",
-            "F_Miyako_Swimsuit2"
+            "ek",
+            "eL"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -80380,7 +80631,7 @@
         "Id": 10072,
         "IsReleased": [
             true,
-            false,
+            true,
             false
         ],
         "DefaultOrder": 144,
@@ -80421,7 +80672,7 @@
         "Illustrator": "YutokaMizu",
         "Designer": "YutokaMizu",
         "CharHeightMetric": "161cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5'3\"",
         "StabilityPoint": 1324,
         "AttackPower1": 283,
         "AttackPower100": 2839,
@@ -80834,10 +81085,10 @@
         ],
         "MemoryLobby": [
             6,
-            0,
+            6,
             0
         ],
-        "MemoryLobbyBGM": "Theme 165",
+        "MemoryLobbyBGM": "Up to 21°C",
         "FurnitureInteraction": [
             [
                 [
@@ -80845,19 +81096,24 @@
                     0
                 ]
             ],
-            [],
+            [
+                [
+                    210309,
+                    0
+                ]
+            ],
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Army",
-            "Specialized",
-            "Curios"
+            "CX",
+            "Cx",
+            "as",
+            "Ba",
+            "ak"
         ],
         "FavorItemUniqueTags": [
-            "F_Saki_Swimsuit",
-            "F_Saki_Swimsuit2"
+            "el",
+            "eM"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -81007,7 +81263,7 @@
         "Id": 26010,
         "IsReleased": [
             true,
-            false,
+            true,
             false
         ],
         "DefaultOrder": 145,
@@ -81048,7 +81304,7 @@
         "Illustrator": "YutokaMizu",
         "Designer": "YutokaMizu",
         "CharHeightMetric": "149cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "4'10\"",
         "StabilityPoint": 2277,
         "AttackPower1": 232,
         "AttackPower100": 2328,
@@ -81338,7 +81594,7 @@
         ],
         "MemoryLobby": [
             2,
-            0,
+            2,
             0
         ],
         "MemoryLobbyBGM": "Theme 104",
@@ -81349,18 +81605,23 @@
                     0
                 ]
             ],
-            [],
+            [
+                [
+                    210308,
+                    0
+                ]
+            ],
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Army",
-            "Simplicity"
+            "CX",
+            "Cx",
+            "as",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Miyu_Swimsuit",
-            "F_Miyu_Swimsuit2"
+            "em",
+            "eN"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -81856,13 +82117,13 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Sports"
+            "CX",
+            "Cx",
+            "aj"
         ],
         "FavorItemUniqueTags": [
-            "F_Shiroko_Swimsuit",
-            "F_Shiroko_Swimsuit2"
+            "en",
+            "eO"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -82368,15 +82629,15 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Books",
-            "Humanities",
-            "PureLiterature"
+            "CX",
+            "Cx",
+            "BB",
+            "aT",
+            "aY"
         ],
         "FavorItemUniqueTags": [
-            "F_Ui_Swimsuit",
-            "F_Ui_Swimsuit2"
+            "eQ",
+            "eq"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -82915,15 +83176,15 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Household",
-            "Food",
-            "Simplicity"
+            "CX",
+            "Cx",
+            "am",
+            "ay",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Hinata_Swimsuit",
-            "F_Hinata_Swimsuit2"
+            "eS",
+            "es"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -83428,14 +83689,14 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "LoveStory",
-            "Humanities"
+            "CX",
+            "Cx",
+            "aq",
+            "aT"
         ],
         "FavorItemUniqueTags": [
-            "F_Koharu_Swimsuit",
-            "F_Koharu_Swimsuit2"
+            "eP",
+            "ep"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -84056,15 +84317,15 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Cosmetics",
-            "Simplicity",
-            "Beauty"
+            "CX",
+            "Cx",
+            "Bb",
+            "BA",
+            "aS"
         ],
         "FavorItemUniqueTags": [
-            "F_Hanako_Swimsuit",
-            "F_Hanako_Swimsuit2"
+            "eR",
+            "er"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -84569,15 +84830,15 @@
             []
         ],
         "FavorItemTags": [
-            "Swimsuit",
-            "WaterPlay",
-            "Household",
-            "Cosmetics",
-            "Books"
+            "CX",
+            "Cx",
+            "am",
+            "Bb",
+            "BB"
         ],
         "FavorItemUniqueTags": [
-            "F_Mimori_Swimsuit",
-            "F_Mimori_Swimsuit2"
+            "eT",
+            "et"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -85144,13 +85405,13 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "Toy",
-            "Art"
+            "BB",
+            "al",
+            "ax"
         ],
         "FavorItemUniqueTags": [
-            "F_Meru",
-            "F_Meru2"
+            "FD",
+            "Fd"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -85668,13 +85929,13 @@
             []
         ],
         "FavorItemTags": [
-            "Books",
-            "LoveStory",
-            "Girlish"
+            "BB",
+            "aq",
+            "ar"
         ],
         "FavorItemUniqueTags": [
-            "F_Momiji",
-            "F_Momiji2"
+            "FC",
+            "Fc"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -86221,13 +86482,13 @@
             []
         ],
         "FavorItemTags": [
-            "Specialized",
-            "Sports",
-            "Smart"
+            "Ba",
+            "aj",
+            "aZ"
         ],
         "FavorItemUniqueTags": [
-            "F_Kotori_Cheerleader",
-            "F_Kotori_Cheerleader2"
+            "FE",
+            "Fe"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -86735,13 +86996,13 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Sports",
-            "Delicious"
+            "aJ",
+            "aj",
+            "ao"
         ],
         "FavorItemUniqueTags": [
-            "F_Haruna_Track",
-            "F_Haruna_Track2"
+            "FF",
+            "Ff"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -87265,13 +87526,13 @@
             []
         ],
         "FavorItemTags": [
-            "Electronic",
-            "Fashion",
-            "Cosmetics"
+            "aL",
+            "an",
+            "Bb"
         ],
         "FavorItemUniqueTags": [
-            "F_Ichika",
-            "F_Ichika2"
+            "FG",
+            "Fg"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -87804,13 +88065,13 @@
             []
         ],
         "FavorItemTags": [
-            "Observational",
-            "Mystery",
-            "Roman"
+            "at",
+            "aW",
+            "aV"
         ],
         "FavorItemUniqueTags": [
-            "F_Kasumi",
-            "F_Kasumi2"
+            "FH",
+            "Fh"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -88285,12 +88546,12 @@
             []
         ],
         "FavorItemTags": [
-            "Functional",
-            "Specialized"
+            "aO",
+            "Ba"
         ],
         "FavorItemUniqueTags": [
-            "F_Shigure_Onsen",
-            "F_Shigure_Onsen2"
+            "FI",
+            "Fi"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -88852,8 +89113,8 @@
         ],
         "FavorItemTags": [],
         "FavorItemUniqueTags": [
-            "F_Misaka_Mikoto",
-            "F_Misaka_Mikoto2"
+            "Fn",
+            "Fp"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -89433,8 +89694,8 @@
         ],
         "FavorItemTags": [],
         "FavorItemUniqueTags": [
-            "F_Shokuho_Misaki",
-            "F_Shokuho_Misaki2"
+            "FO",
+            "FQ"
         ],
         "IsLimited": 1,
         "Weapon": {
@@ -89937,8 +90198,8 @@
         ],
         "FavorItemTags": [],
         "FavorItemUniqueTags": [
-            "F_Saten_Ruiko",
-            "F_Saten_Ruiko2"
+            "Fo",
+            "Fq"
         ],
         "IsLimited": 2,
         "Weapon": {
@@ -90551,13 +90812,13 @@
             []
         ],
         "FavorItemTags": [
-            "Dessert",
-            "Fashion",
-            "Simplicity"
+            "aJ",
+            "an",
+            "BA"
         ],
         "FavorItemUniqueTags": [
-            "F_Yukari",
-            "F_Yukari2"
+            "FP",
+            "FR"
         ],
         "IsLimited": 0,
         "Weapon": {
@@ -90700,6 +90961,2694 @@
                 12,
                 8,
                 13
+            ]
+        ]
+    },
+    {
+        "Id": 10082,
+        "IsReleased": [
+            true,
+            false,
+            false
+        ],
+        "DefaultOrder": 163,
+        "PathName": "Renge",
+        "DevName": "CH0224",
+        "Name": "莲华",
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "DamageDealer",
+        "Summons": [],
+        "Position": "Back",
+        "BulletType": "Sonic",
+        "ArmorType": "HeavyArmor",
+        "StreetBattleAdaptation": 4,
+        "OutdoorBattleAdaptation": 2,
+        "IndoorBattleAdaptation": 0,
+        "WeaponType": "SR",
+        "WeaponImg": "weapon_icon_ch0224",
+        "Cover": true,
+        "Equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "CollectionBG": "BG_Hyakkiyako_Collection",
+        "FamilyName": "不破",
+        "PersonalName": "莲华",
+        "SchoolYear": "2年级",
+        "CharacterAge": "16岁",
+        "Birthday": "7月23日",
+        "CharacterSSRNew": "アタシの青春物語、始めるよ！",
+        "ProfileIntroduction": "百鬼夜行連合学院所属、百花繚乱紛争調停委員会の切り込み隊長。\n\n正義感が強く情に厚い。後輩を大切にしている反面、百花繚乱としての指導は手を抜かないため鬼教官となることも。百花繚乱に入部したこと自体は後悔していないが、青春を謳歌できていないのではないかという不安を抱いている。その反動なのか、漫画や小説に出てくるような青春を追い求めている。今日も運命の出会いに胸を膨らませ、訓練に邁進する夢見がちな少女。",
+        "Hobby": "ライトノベルを読むこと、鍛錬",
+        "CharacterVoice": "小市眞琴",
+        "BirthDay": "7/23",
+        "Illustrator": "Mx2J",
+        "Designer": "Mx2J",
+        "CharHeightMetric": "157cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 1976,
+        "AttackPower1": 311,
+        "AttackPower100": 3117,
+        "MaxHP1": 2223,
+        "MaxHP100": 19270,
+        "DefensePower1": 19,
+        "DefensePower100": 118,
+        "HealPower1": 1416,
+        "HealPower100": 4249,
+        "DodgePoint": 197,
+        "AccuracyPoint": 910,
+        "CriticalPoint": 202,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 5,
+        "AmmoCost": 1,
+        "Range": 750,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "autoattack",
+                "Effects": [
+                    {
+                        "Type": "DMGSingle",
+                        "Hits": [
+                            10000
+                        ],
+                        "Scale": [
+                            10000
+                        ],
+                        "Frames": {
+                            "AttackEnterDuration": 40,
+                            "AttackStartDuration": 33,
+                            "AttackIngDuration": 30,
+                            "AttackEndDuration": 21,
+                            "AttackBurstRoundOverDelay": 40,
+                            "AttackReloadDuration": 63
+                        },
+                        "CriticalCheck": "Check"
+                    }
+                ]
+            },
+            {
+                "SkillType": "ex",
+                "Name": "百花繚乱式射撃術",
+                "Desc": "对扇形范围内的敌方单位施加攻击力<?1>的<d:Burn>状态(持续20秒)/\n对其造成攻击力<?2>的伤害",
+                "Parameters": [
+                    [
+                        "14.5%",
+                        "16.7%",
+                        "21.1%",
+                        "23.3%",
+                        "27.6%"
+                    ],
+                    [
+                        "263.5%",
+                        "303.7%",
+                        "383%",
+                        "422.2%",
+                        "501.5%"
+                    ]
+                ],
+                "Cost": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "Duration": 143,
+                "Range": 1100,
+                "Radius": [
+                    {
+                        "Type": "Fan",
+                        "Radius": 1100,
+                        "Degree": 30
+                    }
+                ],
+                "Icon": "COMMON_SKILLICON_FAN",
+                "Effects": [
+                    {
+                        "Type": "DMGMulti",
+                        "CriticalCheck": "Check",
+                        "Hits": [
+                            1300,
+                            609,
+                            609,
+                            609,
+                            609,
+                            609,
+                            609,
+                            609,
+                            4437
+                        ],
+                        "HitsParameter": 2,
+                        "Scale": [
+                            26451,
+                            30422,
+                            38352,
+                            42323,
+                            50253
+                        ]
+                    },
+                    {
+                        "Type": "DMGDot",
+                        "Duration": "20000",
+                        "Period": "4000",
+                        "Icon": "Burn",
+                        "Scale": [
+                            1458,
+                            1676,
+                            2113,
+                            2333,
+                            2768
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "normal",
+                "Name": "燃え上がる情熱",
+                "Desc": "每30秒，赋予自身<s:CH0224_Public>状态，其效果为攻击力提升<?1>(持续22秒)",
+                "Parameters": [
+                    [
+                        "19.8%",
+                        "20.8%",
+                        "21.8%",
+                        "25.7%",
+                        "26.7%",
+                        "27.7%",
+                        "31.7%",
+                        "32.7%",
+                        "33.7%",
+                        "37.6%"
+                    ]
+                ],
+                "Duration": 135,
+                "Icon": "SKILLICON_CH0224_PUBLICSKILL",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Value": [
+                            [
+                                1983,
+                                2082,
+                                2181,
+                                2577,
+                                2677,
+                                2775,
+                                3171,
+                                3271,
+                                3370,
+                                3766
+                            ]
+                        ],
+                        "Stat": "AttackPower_Coefficient",
+                        "Channel": 2
+                    }
+                ]
+            },
+            {
+                "SkillType": "passive",
+                "Name": "百花繚乱の鬼教官",
+                "Desc": "<b:ATK>提升<?1>",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "AttackPower_Coefficient",
+                        "Scale": [
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2380,
+                            2660
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "百花繚乱の鬼教官+",
+                "Desc": "<b:CriticalDamage>提升<?1>/\n<b:ATK>提升<?2>",
+                "Parameters": [
+                    [
+                        "2000",
+                        "2100",
+                        "2200",
+                        "2600",
+                        "2700",
+                        "2800",
+                        "3200",
+                        "3300",
+                        "3400",
+                        "3800"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "CriticalDamageRate_Base",
+                        "Scale": [
+                            2000,
+                            2100,
+                            2200,
+                            2600,
+                            2700,
+                            2800,
+                            3200,
+                            3300,
+                            3400,
+                            3800
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "切り込み隊長としての本分",
+                "Desc": "自身拥有<s:CH0224_Public>状态攻击时，造成攻击力<?1>的追加伤害",
+                "Parameters": [
+                    [
+                        "4.5%",
+                        "4.7%",
+                        "5%",
+                        "5.9%",
+                        "6.1%",
+                        "6.3%",
+                        "7.2%",
+                        "7.5%",
+                        "7.7%",
+                        "8.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_EXTRADAMAGE",
+                "Effects": [
+                    {
+                        "Type": "DMGEcho",
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            457,
+                            478,
+                            504,
+                            592,
+                            619,
+                            639,
+                            726,
+                            753,
+                            773,
+                            867
+                        ]
+                    }
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "AttackPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                3,
+                0
+            ],
+            [
+                5,
+                0
+            ],
+            [
+                6,
+                48
+            ],
+            [
+                8,
+                58
+            ],
+            [
+                2,
+                10
+            ],
+            [
+                3,
+                14
+            ],
+            [
+                5,
+                24
+            ]
+        ],
+        "FavorAlts": [],
+        "MemoryLobby": [
+            6,
+            0,
+            0
+        ],
+        "MemoryLobbyBGM": "Koi is Love",
+        "FurnitureInteraction": [
+            [
+                [
+                    210325,
+                    0
+                ]
+            ],
+            [],
+            []
+        ],
+        "FavorItemTags": [
+            "am",
+            "ay",
+            "aM",
+            "aX",
+            "aq"
+        ],
+        "FavorItemUniqueTags": [
+            "FS",
+            "Fs"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "百花繚乱制式ライフル-青春の火花",
+            "Desc": "レンゲが愛用するライフル。\n\n百花繚乱の制式ライフルをレンゲ自身が改造した物。突撃する時の頼もしい相棒なのだとか。この銃を活用した百花繚乱の射撃術は、他の追随を許さない。",
+            "AdaptationType": "Street",
+            "AdaptationValue": 1,
+            "AttackPower1": 137,
+            "AttackPower100": 1369,
+            "MaxHP1": 557,
+            "MaxHP100": 5572,
+            "HealPower1": 0,
+            "HealPower100": 0,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3000,
+                160
+            ],
+            [
+                3001,
+                3000,
+                161,
+                270
+            ],
+            [
+                3002,
+                3001,
+                162,
+                271
+            ],
+            [
+                3003,
+                3002,
+                163,
+                272
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                16
+            ],
+            [
+                12,
+                18,
+                16,
+                29
+            ],
+            [
+                12,
+                18,
+                9,
+                26
+            ],
+            [
+                8,
+                18,
+                10,
+                21
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4000
+            ],
+            [
+                4000
+            ],
+            [
+                4001,
+                4000,
+                160
+            ],
+            [
+                4001,
+                161,
+                270
+            ],
+            [
+                4002,
+                4001,
+                161,
+                270
+            ],
+            [
+                4002,
+                162,
+                271
+            ],
+            [
+                4003,
+                4002,
+                163,
+                272
+            ],
+            [
+                4003,
+                163,
+                272
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                6
+            ],
+            [
+                8,
+                6,
+                12
+            ],
+            [
+                5,
+                12,
+                9,
+                18
+            ],
+            [
+                8,
+                5,
+                15
+            ],
+            [
+                8,
+                12,
+                5,
+                8
+            ],
+            [
+                12,
+                7,
+                12
+            ]
+        ]
+    },
+    {
+        "Id": 10083,
+        "IsReleased": [
+            true,
+            false,
+            false
+        ],
+        "DefaultOrder": 164,
+        "PathName": "Kikyou",
+        "DevName": "CH0225",
+        "Name": "桔梗",
+        "School": "Hyakkiyako",
+        "Club": "Hyakkayouran",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "Supporter",
+        "Summons": [],
+        "Position": "Back",
+        "BulletType": "Sonic",
+        "ArmorType": "HeavyArmor",
+        "StreetBattleAdaptation": 4,
+        "OutdoorBattleAdaptation": 2,
+        "IndoorBattleAdaptation": 0,
+        "WeaponType": "SR",
+        "WeaponImg": "weapon_icon_ch0225",
+        "Cover": true,
+        "Equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "CollectionBG": "BG_Hyakkiyako_Collection",
+        "FamilyName": "桐生",
+        "PersonalName": "桔梗",
+        "SchoolYear": "2年级",
+        "CharacterAge": "16岁",
+        "Birthday": "8月8日",
+        "CharacterSSRNew": "あんたの判断が間違ってないってこと、証明して見せて",
+        "ProfileIntroduction": "百鬼夜行連合学院所属、百花繚乱紛争調停委員会の作戦参謀。\n\n常識と論理、理性を重んじる少女。作戦参謀として勝利を重視するが、それ以上に大切にするのは味方の安全である。冷酷なようでいて優しい少女。",
+        "Hobby": "あやとり、兵法書を読むこと、日光浴",
+        "CharacterVoice": "小松未可子",
+        "BirthDay": "8/8",
+        "Illustrator": "Mx2J",
+        "Designer": "Mx2J",
+        "CharHeightMetric": "160cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 1892,
+        "AttackPower1": 248,
+        "AttackPower100": 2483,
+        "MaxHP1": 2132,
+        "MaxHP100": 18480,
+        "DefensePower1": 18,
+        "DefensePower100": 113,
+        "HealPower1": 1473,
+        "HealPower100": 4419,
+        "DodgePoint": 189,
+        "AccuracyPoint": 946,
+        "CriticalPoint": 210,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 5,
+        "AmmoCost": 1,
+        "Range": 750,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "autoattack",
+                "Effects": [
+                    {
+                        "Type": "DMGSingle",
+                        "Hits": [
+                            10000
+                        ],
+                        "Scale": [
+                            10000
+                        ],
+                        "Frames": {
+                            "AttackEnterDuration": 40,
+                            "AttackStartDuration": 15,
+                            "AttackEndDuration": 18,
+                            "AttackBurstRoundOverDelay": 38,
+                            "AttackIngDuration": 40,
+                            "AttackReloadDuration": 80
+                        },
+                        "CriticalCheck": "Check"
+                    }
+                ]
+            },
+            {
+                "SkillType": "ex",
+                "Name": "神機妙算の一手",
+                "Desc": "令十字范围内的敌方单位<d:DEF>降低<?1>(持续30秒)/\n对其造成攻击力<?2>的伤害",
+                "Parameters": [
+                    [
+                        "17.6%",
+                        "17.6%",
+                        "22.9%",
+                        "22.9%",
+                        "28.1%"
+                    ],
+                    [
+                        "252%",
+                        "291%",
+                        "366%",
+                        "405%",
+                        "480%"
+                    ]
+                ],
+                "Cost": [
+                    5,
+                    5,
+                    5,
+                    5,
+                    5
+                ],
+                "Duration": 178,
+                "Range": 950,
+                "Radius": [
+                    {
+                        "Type": "Obb",
+                        "Width": 300,
+                        "Height": 500
+                    }
+                ],
+                "Icon": "COMMON_SKILLICON_CROSS",
+                "Effects": [
+                    {
+                        "Type": "DMGMulti",
+                        "CriticalCheck": "Check",
+                        "Hits": [
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333,
+                            333
+                        ],
+                        "HitsParameter": 2,
+                        "Scale": [
+                            25440,
+                            29160,
+                            36840,
+                            40560,
+                            48240
+                        ]
+                    },
+                    {
+                        "Type": "BuffTarget",
+                        "Value": [
+                            [
+                                -1762,
+                                -1762,
+                                -2291,
+                                -2291,
+                                -2819
+                            ]
+                        ],
+                        "Stat": "DefensePower_Coefficient",
+                        "Channel": 603
+                    }
+                ]
+            },
+            {
+                "SkillType": "normal",
+                "Name": "敵を知り己を知れば百戦殆からず",
+                "Desc": "每35秒，令以自身为中心的圆形范围内除自身外的我方单位，基于该范围内的目标数量，<b:EnhanceSonicRate>加算(持续25秒)/\n\n1人：<?1>\n2人：<?2>\n3人及以上：<?3>",
+                "Parameters": [
+                    [
+                        "14.6%",
+                        "15.3%",
+                        "16.1%",
+                        "19%",
+                        "19.7%",
+                        "20.4%",
+                        "23.4%",
+                        "24.1%",
+                        "24.8%",
+                        "27.8%"
+                    ],
+                    [
+                        "18%",
+                        "18.9%",
+                        "19.8%",
+                        "23.4%",
+                        "24.3%",
+                        "25.2%",
+                        "28.8%",
+                        "29.7%",
+                        "30.6%",
+                        "34.2%"
+                    ],
+                    [
+                        "21.4%",
+                        "22.5%",
+                        "23.6%",
+                        "27.8%",
+                        "28.9%",
+                        "30%",
+                        "34.3%",
+                        "35.3%",
+                        "36.4%",
+                        "40.7%"
+                    ]
+                ],
+                "Duration": 128,
+                "Range": 350,
+                "Radius": [
+                    {
+                        "Type": "Circle",
+                        "Radius": 350
+                    }
+                ],
+                "Icon": "COMMON_SKILLICON_BULLETTYPEBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                1464,
+                                1536,
+                                1610,
+                                1901,
+                                1975,
+                                2049,
+                                2340,
+                                2414,
+                                2486,
+                                2780
+                            ],
+                            [
+                                1804,
+                                1894,
+                                1984,
+                                2346,
+                                2436,
+                                2526,
+                                2886,
+                                2976,
+                                3066,
+                                3428
+                            ],
+                            [
+                                2146,
+                                2252,
+                                2360,
+                                2789,
+                                2897,
+                                3003,
+                                3433,
+                                3539,
+                                3647,
+                                4076
+                            ]
+                        ],
+                        "Stat": "EnhanceSonicRate_Base",
+                        "Channel": 140
+                    }
+                ]
+            },
+            {
+                "SkillType": "passive",
+                "Name": "作戦参謀としての素養",
+                "Desc": "<b:ATK>提升<?1>",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "AttackPower_Coefficient",
+                        "Scale": [
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2380,
+                            2660
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "作戦参謀としての素養+",
+                "Desc": "<b:ExtendDebuffDuration>提升<?1>/\n<b:ATK>提升<?2>",
+                "Parameters": [
+                    [
+                        "1000",
+                        "1050",
+                        "1100",
+                        "1300",
+                        "1350",
+                        "1400",
+                        "1600",
+                        "1650",
+                        "1700",
+                        "1900"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "ExtendDebuffDuration_Base",
+                        "Scale": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "風林火山の計略",
+                "Desc": "每30秒，令自身<b:ATK>提升<?1>(持续20秒)/\n令自身获得1个<s:CH0225_ExtraPassive>（最多持有3个)/\n自身持有3个<s:CH0225_ExtraPassive>使用EX技能时，消耗自身持有的所有<s:CH0225_ExtraPassive>，令除自身外的我方单位<b:CostChange>降低1(EX技能使用1次后失效)",
+                "Parameters": [
+                    [
+                        "17.2%",
+                        "18.1%",
+                        "18.9%",
+                        "22.4%",
+                        "23.3%",
+                        "24.1%",
+                        "27.6%",
+                        "28.4%",
+                        "29.3%",
+                        "32.8%"
+                    ]
+                ],
+                "Icon": "SKILLICON_CH0225_EXTRAPASSIVESKILL",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Value": [
+                            [
+                                1727,
+                                1813,
+                                1899,
+                                2244,
+                                2331,
+                                2417,
+                                2762,
+                                2848,
+                                2934,
+                                3280
+                            ]
+                        ],
+                        "Stat": "AttackPower_Coefficient",
+                        "Channel": 2
+                    }
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "AttackPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                2,
+                0
+            ],
+            [
+                4,
+                0
+            ],
+            [
+                5,
+                46
+            ],
+            [
+                6,
+                55
+            ],
+            [
+                1,
+                9
+            ],
+            [
+                2,
+                14
+            ],
+            [
+                4,
+                23
+            ]
+        ],
+        "FavorAlts": [],
+        "MemoryLobby": [
+            6,
+            0,
+            0
+        ],
+        "MemoryLobbyBGM": "Aira",
+        "FurnitureInteraction": [
+            [
+                [
+                    210326,
+                    0
+                ]
+            ],
+            [],
+            []
+        ],
+        "FavorItemTags": [
+            "BB",
+            "aT",
+            "au",
+            "aY",
+            "Ba"
+        ],
+        "FavorItemUniqueTags": [
+            "FT",
+            "Ft"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "百花繚乱制式ライフル-紺碧の知恵",
+            "Desc": "キキョウが肌身離さず持ち歩いているライフル。\n\n作戦参謀を務めているため、実際にこれを使うことは稀である。しかし、完璧な勝利のためなら自ら囮になるのも厭わないキキョウは、この銃に助けられたことも多々あるのだとか。",
+            "AdaptationType": "Street",
+            "AdaptationValue": 1,
+            "AttackPower1": 109,
+            "AttackPower100": 1091,
+            "MaxHP1": 534,
+            "MaxHP100": 5343,
+            "HealPower1": 0,
+            "HealPower100": 0,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3000,
+                190
+            ],
+            [
+                3001,
+                3000,
+                191,
+                280
+            ],
+            [
+                3002,
+                3001,
+                192,
+                281
+            ],
+            [
+                3003,
+                3002,
+                193,
+                282
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                16
+            ],
+            [
+                12,
+                18,
+                16,
+                30
+            ],
+            [
+                12,
+                18,
+                7,
+                24
+            ],
+            [
+                8,
+                18,
+                9,
+                21
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4000
+            ],
+            [
+                4000
+            ],
+            [
+                4001,
+                4000,
+                190
+            ],
+            [
+                4001,
+                191,
+                280
+            ],
+            [
+                4002,
+                4001,
+                191,
+                280
+            ],
+            [
+                4002,
+                192,
+                281
+            ],
+            [
+                4003,
+                4002,
+                193,
+                282
+            ],
+            [
+                4003,
+                193,
+                282
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                7
+            ],
+            [
+                8,
+                4,
+                13
+            ],
+            [
+                5,
+                12,
+                10,
+                17
+            ],
+            [
+                8,
+                5,
+                16
+            ],
+            [
+                8,
+                12,
+                6,
+                9
+            ],
+            [
+                12,
+                6,
+                12
+            ]
+        ]
+    },
+    {
+        "Id": 20032,
+        "IsReleased": [
+            true,
+            false,
+            false
+        ],
+        "DefaultOrder": 165,
+        "PathName": "Eimi_Swimsuit",
+        "DevName": "CH0219",
+        "Name": "艾米(泳装)",
+        "School": "Millennium",
+        "Club": "SPTF",
+        "StarGrade": 3,
+        "SquadType": "Support",
+        "TacticRole": "Supporter",
+        "Summons": [],
+        "Position": "Back",
+        "BulletType": "Mystic",
+        "ArmorType": "Unarmed",
+        "StreetBattleAdaptation": 0,
+        "OutdoorBattleAdaptation": 4,
+        "IndoorBattleAdaptation": 2,
+        "WeaponType": "SG",
+        "WeaponImg": "weapon_icon_ch0219",
+        "Cover": false,
+        "Equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "CollectionBG": "BG_FrozenSea_Collection",
+        "FamilyName": "和泉元",
+        "PersonalName": "艾米",
+        "SchoolYear": "1年级",
+        "CharacterAge": "15岁",
+        "Birthday": "5月1日",
+        "CharacterSSRNew": "海だから水着を着ないとね。",
+        "ProfileIntroduction": "ミレニアムサイエンススクール所属、特異現象捜査部のメンバー。\n\n何を考えているのか分かりづらいが、酷寒地に到着してからは普段とは違って多少浮かれているようだ。と言いつつも、彼女のファッションセンスはいつも通りな模様。",
+        "Hobby": "ボーっとすること、音楽鑑賞",
+        "CharacterVoice": "松永あかね",
+        "BirthDay": "5/1",
+        "Illustrator": "ポップキュン",
+        "Designer": "ポップキュン",
+        "CharHeightMetric": "167cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 2088,
+        "AttackPower1": 251,
+        "AttackPower100": 2513,
+        "MaxHP1": 2842,
+        "MaxHP100": 21252,
+        "DefensePower1": 94,
+        "DefensePower100": 568,
+        "HealPower1": 1755,
+        "HealPower100": 5265,
+        "DodgePoint": 181,
+        "AccuracyPoint": 545,
+        "CriticalPoint": 272,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 1,
+        "AmmoCost": 1,
+        "Range": 1000,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "ex",
+                "Name": "頼もしい支援",
+                "Desc": "令圆形范围内的至多6名我方单位移动至指定位置，随后赋予其治愈力<?1>的<b:Shield><?2>(持续30秒)",
+                "Parameters": [
+                    [
+                        "104%",
+                        "119%",
+                        "151%",
+                        "166%",
+                        "197%"
+                    ],
+                    [
+                        "",
+                        "",
+                        "，令其<b:ATK>提升10.2%",
+                        "，令其<b:ATK>提升10.2%",
+                        "，令其<b:ATK>提升12.6%"
+                    ]
+                ],
+                "Cost": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4
+                ],
+                "Duration": 80,
+                "Range": 1000,
+                "Radius": [
+                    {
+                        "Type": "Circle",
+                        "Radius": 510
+                    }
+                ],
+                "Icon": "COMMON_SKILLICON_BATTLEITEM",
+                "Effects": [
+                    {
+                        "Type": "Shield",
+                        "Scale": [
+                            10414,
+                            11978,
+                            15102,
+                            16665,
+                            19789
+                        ]
+                    },
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                0,
+                                0,
+                                1027,
+                                1027,
+                                1264
+                            ]
+                        ],
+                        "Stat": "AttackPower_Coefficient",
+                        "Channel": 102
+                    }
+                ]
+            },
+            {
+                "SkillType": "normal",
+                "Name": "エイミの自信作",
+                "Desc": "每45秒，令4名我方单位<b:AttackSpeed>提升<?1>(持续25秒)",
+                "Parameters": [
+                    [
+                        "11%",
+                        "11.6%",
+                        "12.1%",
+                        "14.3%",
+                        "14.9%",
+                        "15.4%",
+                        "17.6%",
+                        "18.2%",
+                        "18.7%",
+                        "21%"
+                    ]
+                ],
+                "Duration": 90,
+                "Range": 1000,
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                1106,
+                                1160,
+                                1216,
+                                1437,
+                                1492,
+                                1547,
+                                1768,
+                                1823,
+                                1879,
+                                2100
+                            ]
+                        ],
+                        "Stat": "AttackSpeed_Coefficient",
+                        "Channel": 124
+                    }
+                ]
+            },
+            {
+                "SkillType": "passive",
+                "Name": "水を得た魚",
+                "Desc": "<b:HealPower>提升<?1>",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_STATBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "HealPower_Coefficient",
+                        "Scale": [
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2380,
+                            2660
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "水を得た魚+",
+                "Desc": "<b:ExtendBuffDuration>提升<?1>\n<b:HealPower>提升<?2>",
+                "Parameters": [
+                    [
+                        "1000",
+                        "1050",
+                        "1100",
+                        "1300",
+                        "1350",
+                        "1400",
+                        "1600",
+                        "1650",
+                        "1700",
+                        "1900"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_STATBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "ExtendBuffDuration_Base",
+                        "Scale": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "滑るように",
+                "Desc": "编队内所有学生<b:AttackSpeed>提升<?1>",
+                "Parameters": [
+                    [
+                        "9.1%",
+                        "9.5%",
+                        "10%",
+                        "11.8%",
+                        "12.3%",
+                        "12.7%",
+                        "14.5%",
+                        "15%",
+                        "15.5%",
+                        "17.3%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                912,
+                                957,
+                                1003,
+                                1186,
+                                1231,
+                                1277,
+                                1459,
+                                1504,
+                                1550,
+                                1732
+                            ]
+                        ],
+                        "Stat": "AttackSpeed_Coefficient",
+                        "Channel": 324
+                    }
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "HealPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                5,
+                0
+            ],
+            [
+                8,
+                0
+            ],
+            [
+                11,
+                53
+            ],
+            [
+                13,
+                64
+            ],
+            [
+                3,
+                11
+            ],
+            [
+                5,
+                16
+            ],
+            [
+                8,
+                26
+            ]
+        ],
+        "FavorAlts": [
+            10001
+        ],
+        "MemoryLobby": [
+            6,
+            0,
+            0
+        ],
+        "MemoryLobbyBGM": "Theme 103",
+        "FurnitureInteraction": [
+            [
+                [
+                    210327,
+                    0
+                ]
+            ],
+            [],
+            []
+        ],
+        "FavorItemTags": [
+            "CX",
+            "Cx",
+            "ak",
+            "aQ"
+        ],
+        "FavorItemUniqueTags": [
+            "FU",
+            "Fu"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "マルチタクティカル",
+            "Desc": "エイミが愛用する平凡なデザインのショットガン。\n\nその名にふさわしく酷寒地でも多方面で活躍できる。",
+            "AdaptationType": "Outdoor",
+            "AdaptationValue": 1,
+            "AttackPower1": 110,
+            "AttackPower100": 1104,
+            "MaxHP1": 619,
+            "MaxHP100": 6186,
+            "HealPower1": 206,
+            "HealPower100": 2063,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3050,
+                230
+            ],
+            [
+                3051,
+                3050,
+                231,
+                240
+            ],
+            [
+                3052,
+                3051,
+                232,
+                241
+            ],
+            [
+                3053,
+                3052,
+                233,
+                242
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                14
+            ],
+            [
+                12,
+                18,
+                13,
+                32
+            ],
+            [
+                12,
+                18,
+                10,
+                26
+            ],
+            [
+                8,
+                18,
+                11,
+                20
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4050
+            ],
+            [
+                4050
+            ],
+            [
+                4051,
+                4050,
+                230
+            ],
+            [
+                4051,
+                231,
+                240
+            ],
+            [
+                4052,
+                4051,
+                231,
+                240
+            ],
+            [
+                4052,
+                232,
+                241
+            ],
+            [
+                4053,
+                4052,
+                233,
+                242
+            ],
+            [
+                4053,
+                233,
+                242
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                5
+            ],
+            [
+                8,
+                5,
+                15
+            ],
+            [
+                5,
+                12,
+                10,
+                17
+            ],
+            [
+                8,
+                3,
+                17
+            ],
+            [
+                8,
+                12,
+                5,
+                8
+            ],
+            [
+                12,
+                7,
+                13
+            ]
+        ]
+    },
+    {
+        "Id": 10084,
+        "IsReleased": [
+            true,
+            false,
+            false
+        ],
+        "DefaultOrder": 166,
+        "PathName": "Kotama_Camping",
+        "DevName": "CH0232",
+        "Name": "小玉(露营)",
+        "School": "Millennium",
+        "Club": "Veritas",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "Supporter",
+        "Summons": [],
+        "Position": "Middle",
+        "BulletType": "Pierce",
+        "ArmorType": "HeavyArmor",
+        "StreetBattleAdaptation": 2,
+        "OutdoorBattleAdaptation": 4,
+        "IndoorBattleAdaptation": 0,
+        "WeaponType": "HG",
+        "WeaponImg": "weapon_icon_26001",
+        "Cover": true,
+        "Equipment": [
+            "Gloves",
+            "Badge",
+            "Necklace"
+        ],
+        "CollectionBG": "BG_CampSite_Collection",
+        "FamilyName": "音瀬",
+        "PersonalName": "コタマ",
+        "SchoolYear": "3年生",
+        "CharacterAge": "17歳",
+        "Birthday": "1月5日",
+        "CharacterSSRNew": "先生の足音が近づいてくるのを待っていました",
+        "ProfileIntroduction": "寒い冬にあわせて暖かい格好に着替えたヴェリタスのメンバー。\n\n外出する気はなかったものの、普段は録音しづらい環境音を収録するチャンスだとポジティブに切り替えている。自然環境で収録できるあらゆる音が好きだが、一番好きなのはやはり先生の声なのだとか。",
+        "Hobby": "無線通信、盗聴",
+        "CharacterVoice": "高川みな",
+        "BirthDay": "1/5",
+        "Illustrator": "kokosando",
+        "Designer": "kokosando",
+        "CharHeightMetric": "158cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 944,
+        "AttackPower1": 134,
+        "AttackPower100": 1342,
+        "MaxHP1": 2128,
+        "MaxHP100": 24650,
+        "DefensePower1": 18,
+        "DefensePower100": 113,
+        "HealPower1": 1475,
+        "HealPower100": 4426,
+        "DodgePoint": 1040,
+        "AccuracyPoint": 105,
+        "CriticalPoint": 210,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 20,
+        "AmmoCost": 2,
+        "Range": 550,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "autoattack",
+                "Effects": [
+                    {
+                        "Type": "DMGMulti",
+                        "Hits": [
+                            5000,
+                            5000
+                        ],
+                        "Scale": [
+                            10000
+                        ],
+                        "Frames": {
+                            "AttackEnterDuration": 34,
+                            "AttackStartDuration": 18,
+                            "AttackIngDuration": 28,
+                            "AttackEndDuration": 19,
+                            "AttackBurstRoundOverDelay": 40,
+                            "AttackReloadDuration": 74
+                        },
+                        "CriticalCheck": "Check"
+                    }
+                ]
+            },
+            {
+                "SkillType": "ex",
+                "Name": "熊よけ鈴投げ",
+                "Desc": "对1名敌方单位造成攻击力<?1>的伤害\n对该目标施加<c:Confusion>状态(持续<?2>)",
+                "Parameters": [
+                    [
+                        "477%",
+                        "548%",
+                        "691%",
+                        "763%",
+                        "906%"
+                    ],
+                    [
+                        "7.2秒",
+                        "7.2秒",
+                        "9.4秒",
+                        "9.4秒",
+                        "11.5秒"
+                    ]
+                ],
+                "Cost": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    6
+                ],
+                "Duration": 160,
+                "Range": 750,
+                "Icon": "COMMON_SKILLICON_CONFUSION",
+                "Effects": [
+                    {
+                        "Type": "DMGSingle",
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            47721,
+                            54885,
+                            69198,
+                            76355,
+                            90676
+                        ]
+                    },
+                    {
+                        "Type": "CrowdControl",
+                        "Chance": "10000",
+                        "Icon": "Confusion",
+                        "Scale": [
+                            7200,
+                            7200,
+                            9400,
+                            9400,
+                            11500
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "normal",
+                "Name": "共鳴効果",
+                "Desc": "每45秒令自身及1名除自身外的我方单位<b:ATK>提升<?1>(持续35秒)",
+                "Parameters": [
+                    [
+                        "5.9%",
+                        "6.2%",
+                        "6.5%",
+                        "7.7%",
+                        "8%",
+                        "8.3%",
+                        "9.5%",
+                        "9.8%",
+                        "10.1%",
+                        "11.3%"
+                    ]
+                ],
+                "Duration": 120,
+                "Range": 750,
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                598,
+                                627,
+                                657,
+                                776,
+                                806,
+                                836,
+                                955,
+                                985,
+                                1015,
+                                1134
+                            ]
+                        ],
+                        "Stat": "AttackPower_Coefficient",
+                        "Channel": 2
+                    }
+                ]
+            },
+            {
+                "SkillType": "passive",
+                "Name": "ノイズ増幅",
+                "Desc": "<b:ATK>提升<?1>",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "AttackPower_Coefficient",
+                        "Scale": [
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2380,
+                            2660
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "ノイズ増幅+",
+                "Desc": "<b:OppressionPower>提升<?1>\n<b:ATK>提升<?2>",
+                "Parameters": [
+                    [
+                        "14",
+                        "15",
+                        "16",
+                        "19",
+                        "19",
+                        "20",
+                        "23",
+                        "24",
+                        "24",
+                        "27"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "OppressionPower_Base",
+                        "Scale": [
+                            14,
+                            15,
+                            16,
+                            19,
+                            19,
+                            20,
+                            23,
+                            24,
+                            24,
+                            27
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "電波干渉",
+                "Desc": "自身攻击时，对目标造成攻击力<?1>的追加伤害",
+                "Parameters": [
+                    [
+                        "24.1%",
+                        "25.3%",
+                        "26.5%",
+                        "31.4%",
+                        "32.6%",
+                        "33.8%",
+                        "38.6%",
+                        "39.8%",
+                        "41%",
+                        "45.8%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_EXTRADAMAGE",
+                "Effects": [
+                    {
+                        "Type": "DMGEcho",
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            2415,
+                            2536,
+                            2657,
+                            3140,
+                            3261,
+                            3381,
+                            3864,
+                            3985,
+                            4106,
+                            4589
+                        ]
+                    }
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "AttackPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                1,
+                0
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                3,
+                62
+            ],
+            [
+                3,
+                74
+            ],
+            [
+                1,
+                12
+            ],
+            [
+                1,
+                18
+            ],
+            [
+                2,
+                31
+            ]
+        ],
+        "FavorAlts": [
+            26001
+        ],
+        "MemoryLobby": [
+            5,
+            0,
+            0
+        ],
+        "MemoryLobbyBGM": "Aira",
+        "FurnitureInteraction": [
+            [
+                [
+                    210328,
+                    0
+                ]
+            ],
+            [],
+            []
+        ],
+        "FavorItemTags": [
+            "al",
+            "aw"
+        ],
+        "FavorItemUniqueTags": [
+            "Fy",
+            "FZ"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "エコーリンク",
+            "Desc": "コタマがいつも持ち歩いている拳銃。\n\n発砲音を極限まで抑えたこの拳銃は、静かな山の中でも野生動物から警戒されることなく、作戦を遂行することができる。",
+            "AdaptationType": "Outdoor",
+            "AdaptationValue": 1,
+            "AttackPower1": 59,
+            "AttackPower100": 590,
+            "MaxHP1": 705,
+            "MaxHP100": 7053,
+            "HealPower1": 0,
+            "HealPower100": 0,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3050,
+                260
+            ],
+            [
+                3051,
+                3050,
+                261,
+                150
+            ],
+            [
+                3052,
+                3051,
+                262,
+                151
+            ],
+            [
+                3053,
+                3052,
+                263,
+                152
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                18,
+                13,
+                30
+            ],
+            [
+                12,
+                18,
+                8,
+                29
+            ],
+            [
+                8,
+                18,
+                7,
+                23
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4050
+            ],
+            [
+                4050
+            ],
+            [
+                4051,
+                4050,
+                260
+            ],
+            [
+                4051,
+                261,
+                150
+            ],
+            [
+                4052,
+                4051,
+                261,
+                150
+            ],
+            [
+                4052,
+                262,
+                151
+            ],
+            [
+                4053,
+                4052,
+                263,
+                152
+            ],
+            [
+                4053,
+                263,
+                152
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                5
+            ],
+            [
+                8,
+                6,
+                14
+            ],
+            [
+                5,
+                12,
+                7,
+                19
+            ],
+            [
+                8,
+                3,
+                17
+            ],
+            [
+                8,
+                12,
+                5,
+                10
+            ],
+            [
+                12,
+                7,
+                14
+            ]
+        ]
+    },
+    {
+        "Id": 10085,
+        "IsReleased": [
+            true,
+            false,
+            false
+        ],
+        "DefaultOrder": 167,
+        "PathName": "Hare_Camping",
+        "DevName": "CH0233",
+        "Name": "晴(露营)",
+        "School": "Millennium",
+        "Club": "Veritas",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "Supporter",
+        "Summons": [],
+        "Position": "Middle",
+        "BulletType": "Explosion",
+        "ArmorType": "LightArmor",
+        "StreetBattleAdaptation": 0,
+        "OutdoorBattleAdaptation": 4,
+        "IndoorBattleAdaptation": 2,
+        "WeaponType": "AR",
+        "WeaponImg": "weapon_icon_23003",
+        "Cover": true,
+        "Equipment": [
+            "Hat",
+            "Hairpin",
+            "Charm"
+        ],
+        "CollectionBG": "BG_CampSite_Collection",
+        "FamilyName": "小鈎",
+        "PersonalName": "ハレ",
+        "SchoolYear": "2年生",
+        "CharacterAge": "16歳",
+        "Birthday": "4月19日",
+        "CharacterSSRNew": "どんなに寒くても、ぬるい妖怪MAXだけは受け入れられないよ",
+        "ProfileIntroduction": "寒い冬にあわせて暖かい格好に着替えたヴェリタスのメンバー。\n\n久々に外出することになった上、電波がほとんど通じないキャンプ場に足を運ぶことになり、いつもよりテンションが下がっている様子。屋外の不便さには大体耐えられるものの、エナジードリンクを飲むことだけは諦められない模様。",
+        "Hobby": "ゲーム、映画鑑賞",
+        "CharacterVoice": "貝原怜奈",
+        "BirthDay": "4/19",
+        "Illustrator": "9ml",
+        "Designer": "9ml",
+        "CharHeightMetric": "153cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 1376,
+        "AttackPower1": 158,
+        "AttackPower100": 1589,
+        "MaxHP1": 2214,
+        "MaxHP100": 22140,
+        "DefensePower1": 19,
+        "DefensePower100": 118,
+        "HealPower1": 1422,
+        "HealPower100": 4267,
+        "DodgePoint": 787,
+        "AccuracyPoint": 711,
+        "CriticalPoint": 203,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 10,
+        "AmmoCost": 1,
+        "Range": 650,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "autoattack",
+                "Effects": [
+                    {
+                        "Type": "DMGSingle",
+                        "Hits": [
+                            10000
+                        ],
+                        "Scale": [
+                            10000
+                        ],
+                        "Frames": {
+                            "AttackEnterDuration": 40,
+                            "AttackStartDuration": 24,
+                            "AttackEndDuration": 25,
+                            "AttackBurstRoundOverDelay": 20,
+                            "AttackIngDuration": 36,
+                            "AttackReloadDuration": 85
+                        },
+                        "CriticalCheck": "Check"
+                    }
+                ]
+            },
+            {
+                "SkillType": "ex",
+                "Name": "焚き火の甘味",
+                "Desc": "令1名除自身外的我方单位自身<b:ATK>提升<?1>(持续26秒)\n令自身获得5个<s:CH0233_ExtraPassive>(最多持有15个)",
+                "Parameters": [
+                    [
+                        "42.3%",
+                        "48.6%",
+                        "61.3%",
+                        "67.7%",
+                        "80.4%"
+                    ]
+                ],
+                "Cost": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "Duration": 120,
+                "Range": 850,
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                4232,
+                                4867,
+                                6136,
+                                6771,
+                                8040
+                            ]
+                        ],
+                        "Stat": "AttackPower_Coefficient",
+                        "Channel": 102
+                    }
+                ]
+            },
+            {
+                "SkillType": "normal",
+                "Name": "広がる温もり",
+                "Desc": "每50秒，令以自身为中心的圆形范围内的我方单位<b:ATK>提升<?1>(持续30秒)",
+                "Parameters": [
+                    [
+                        "14.5%",
+                        "14.9%",
+                        "15.2%",
+                        "18.1%",
+                        "18.5%",
+                        "18.9%",
+                        "20.3%",
+                        "21%",
+                        "21.4%",
+                        "24.3%"
+                    ]
+                ],
+                "Duration": 120,
+                "Radius": [
+                    {
+                        "Type": "Circle",
+                        "Radius": 250
+                    }
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffAlly",
+                        "Value": [
+                            [
+                                1454,
+                                1491,
+                                1527,
+                                1818,
+                                1854,
+                                1890,
+                                2036,
+                                2109,
+                                2145,
+                                2436
+                            ]
+                        ],
+                        "Stat": "AttackPower_Coefficient",
+                        "Channel": 102
+                    }
+                ]
+            },
+            {
+                "SkillType": "passive",
+                "Name": "デトックス効果",
+                "Desc": "<b:ATK>提升<?1>",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "AttackPower_Coefficient",
+                        "Scale": [
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2380,
+                            2660
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "デトックス効果+",
+                "Desc": "<b:ExtendBuffDuration>提升<?1>\n<b:ATK>提升<?2>",
+                "Parameters": [
+                    [
+                        "1000",
+                        "1050",
+                        "1100",
+                        "1300",
+                        "1350",
+                        "1400",
+                        "1600",
+                        "1650",
+                        "1700",
+                        "1900"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Effects": [
+                    {
+                        "Type": "BuffSelf",
+                        "Stat": "ExtendBuffDuration_Base",
+                        "Scale": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "キャンプの醍醐味",
+                "Desc": "自身持有<s:CH0233_ExtraPassive>攻击时，对目标造成攻击力<?1>的追加伤害\n随后移除自身持有的1个<s:CH0233_ExtraPassive>",
+                "Parameters": [
+                    [
+                        "51.6%",
+                        "54.2%",
+                        "56.8%",
+                        "67.1%",
+                        "69.6%",
+                        "72.2%",
+                        "82.5%",
+                        "85.2%",
+                        "87.7%",
+                        "98%"
+                    ]
+                ],
+                "Icon": "SKILLICON_CH0233_ExtraPassive",
+                "Effects": [
+                    {
+                        "Type": "DMGEcho",
+                        "CriticalCheck": "Check",
+                        "Scale": [
+                            5160,
+                            5425,
+                            5681,
+                            6713,
+                            6968,
+                            7224,
+                            8256,
+                            8521,
+                            8776,
+                            9808
+                        ]
+                    }
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "AttackPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                1,
+                0
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                3,
+                55
+            ],
+            [
+                4,
+                66
+            ],
+            [
+                1,
+                11
+            ],
+            [
+                1,
+                16
+            ],
+            [
+                2,
+                27
+            ]
+        ],
+        "FavorAlts": [
+            23003
+        ],
+        "MemoryLobby": [
+            5,
+            0,
+            0
+        ],
+        "MemoryLobbyBGM": "Theme 193",
+        "FurnitureInteraction": [
+            [
+                [
+                    210329,
+                    0
+                ]
+            ],
+            [],
+            []
+        ],
+        "FavorItemTags": [
+            "aR"
+        ],
+        "FavorItemUniqueTags": [
+            "Fz",
+            "fA"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "オートエイマー",
+            "Desc": "ハレが使用するブルパップ方式のアサルトライフル。\n\n屋外でも簡単に点火できる着火機能が付いており、猛獣が現れた時は自動的にサポートしてくれる標的照準装置などが搭載されている。しかし、実際に熊が現れた時のハレは慌ててしまい、その機能をまともに使ったことはないのだとか。",
+            "AdaptationType": "Outdoor",
+            "AdaptationValue": 1,
+            "AttackPower1": 70,
+            "AttackPower100": 698,
+            "MaxHP1": 637,
+            "MaxHP100": 6366,
+            "HealPower1": 0,
+            "HealPower100": 0,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3050,
+                250
+            ],
+            [
+                3051,
+                3050,
+                251,
+                170
+            ],
+            [
+                3052,
+                3051,
+                252,
+                171
+            ],
+            [
+                3053,
+                3052,
+                253,
+                172
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                18,
+                11,
+                30
+            ],
+            [
+                12,
+                18,
+                7,
+                28
+            ],
+            [
+                8,
+                18,
+                8,
+                21
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4050
+            ],
+            [
+                4050
+            ],
+            [
+                4051,
+                4050,
+                250
+            ],
+            [
+                4051,
+                251,
+                170
+            ],
+            [
+                4052,
+                4051,
+                251,
+                170
+            ],
+            [
+                4052,
+                252,
+                171
+            ],
+            [
+                4053,
+                4052,
+                253,
+                172
+            ],
+            [
+                4053,
+                253,
+                172
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                5
+            ],
+            [
+                8,
+                4,
+                13
+            ],
+            [
+                5,
+                12,
+                10,
+                19
+            ],
+            [
+                8,
+                3,
+                18
+            ],
+            [
+                8,
+                12,
+                6,
+                10
+            ],
+            [
+                12,
+                6,
+                14
             ]
         ]
     }

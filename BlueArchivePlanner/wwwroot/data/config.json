@@ -99,7 +99,7 @@
             ]
         }
     ],
-    "build": 1700183645,
+    "build": 1703763135,
     "Regions": [
         {
             "Name": "Jp",
@@ -148,6 +148,7 @@
                 829,
                 830,
                 831,
+                832,
                 10801,
                 10802,
                 10803,
@@ -169,7 +170,7 @@
             "Event701Max": [
                 12,
                 10,
-                4
+                6
             ],
             "ChaserMax": 9,
             "BloodMax": 13,
@@ -180,24 +181,21 @@
             "CurrentGacha": [
                 {
                     "characters": [
-                        10048,
-                        20017
+                        10085,
+                        10084
                     ],
-                    "start": 1700013600,
-                    "end": 1700618400
+                    "start": 1703642400,
+                    "end": 1704852000
                 }
             ],
-            "CurrentEvents": [],
-            "CurrentRaid": [
+            "CurrentEvents": [
                 {
-                    "type": "EliminateRaid",
-                    "raid": 7,
-                    "terrain": "Street",
-                    "season": 7,
-                    "start": 1700013600,
-                    "end": 1700593200
+                    "event": 832,
+                    "start": 1703642400,
+                    "end": 1704852000
                 }
-            ]
+            ],
+            "CurrentRaid": []
         },
         {
             "Name": "Global",
@@ -207,14 +205,14 @@
             "EquipmentMaxLevel": [
                 8,
                 8,
-                7
+                8
             ],
             "GearUnlock": true,
             "GearBondReq": [
                 20,
                 25
             ],
-            "CampaignMax": 22,
+            "CampaignMax": 23,
             "CampaignExtra": true,
             "Events": [
                 701,
@@ -240,6 +238,8 @@
                 822,
                 824,
                 825,
+                826,
+                827,
                 10801,
                 10802,
                 10803,
@@ -268,41 +268,39 @@
             "CurrentGacha": [
                 {
                     "characters": [
-                        10068,
-                        10049,
-                        10029,
-                        23008
+                        10071,
+                        10072
                     ],
-                    "start": 1699927200,
-                    "end": 1700532000
+                    "start": 1703556000,
+                    "end": 1704765600
                 }
             ],
             "CurrentEvents": [
                 {
-                    "event": 10816,
-                    "start": 1699927200,
-                    "end": 1700532000
+                    "event": 827,
+                    "start": 1703556000,
+                    "end": 1704765600
                 }
             ],
             "CurrentRaid": [
                 {
-                    "type": "Raid",
-                    "raid": 5,
-                    "terrain": "Outdoor",
-                    "season": 51,
-                    "start": 1699927200,
-                    "end": 1700506800
+                    "type": "EliminateRaid",
+                    "raid": 1,
+                    "terrain": "Street",
+                    "season": 2,
+                    "start": 1703556000,
+                    "end": 1704135600
                 }
             ]
         },
         {
             "Name": "Cn",
-            "StudentMaxLevel": 75,
+            "StudentMaxLevel": 78,
             "WeaponMaxLevel": 0,
             "BondMaxLevel": 50,
             "EquipmentMaxLevel": [
-                5,
-                5,
+                6,
+                6,
                 5
             ],
             "GearUnlock": false,
@@ -310,37 +308,45 @@
                 20,
                 25
             ],
-            "CampaignMax": 14,
+            "CampaignMax": 16,
             "CampaignExtra": false,
             "Events": [
                 801,
                 802,
-                803
+                803,
+                804,
+                805
             ],
             "Event701Max": [
                 2,
                 8,
                 0
             ],
-            "ChaserMax": 8,
-            "BloodMax": 8,
-            "FindGiftMax": 8,
+            "ChaserMax": 9,
+            "BloodMax": 9,
+            "FindGiftMax": 9,
             "SchoolDungeonMax": 0,
             "FurnitureSetMax": 104,
             "FurnitureTemplateMax": 0,
             "CurrentGacha": [
                 {
                     "characters": [
-                        20005,
-                        10024
+                        20008,
+                        10029,
+                        23008
                     ],
-                    "start": 1699509600,
-                    "end": 1700719200
+                    "start": 1703138400,
+                    "end": 1704348000
                 }
             ],
             "CurrentEvents": [],
             "CurrentRaid": []
         }
+    ],
+    "CommonFavorItemTags": [
+        "BC",
+        "Bc",
+        "ew"
     ],
     "Changelog": [
         {
