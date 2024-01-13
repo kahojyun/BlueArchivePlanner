@@ -1,0 +1,3 @@
+[submodule "SchaleDB"]
+	path = SchaleDB
+	url = https://github.com/lonqie/SchaleDB.git

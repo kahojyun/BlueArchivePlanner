@@ -22,4 +22,27 @@
 	<ItemGroup>
 		<NativeFileReference Include="lib/libsoplexshared.a" />
 	</ItemGroup>
+	<ItemGroup>
+		<SchaleDbData Include="..\SchaleDB\data\stages.min.json">
+			<Destination>wwwroot\data\stages.min.json</Destination>
+		</SchaleDbData>
+		<SchaleDbData Include="..\SchaleDB\data\config.min.json">
+			<Destination>wwwroot\data\config.min.json</Destination>
+		</SchaleDbData>
+		<SchaleDbData Include="..\SchaleDB\data\cn\students.min.json">
+			<Destination>wwwroot\data\cn\students.min.json</Destination>
+		</SchaleDbData>
+		<SchaleDbData Include="..\SchaleDB\data\cn\equipment.min.json">
+			<Destination>wwwroot\data\cn\equipment.min.json</Destination>
+		</SchaleDbData>
+	</ItemGroup>
+	<ItemGroup>
+		<EquipmentIcon Include="..\SchaleDB\images\equipment\icon\*.*" />
+		<StudentIcon Include="..\SchaleDB\images\student\icon\*.*" />
+	</ItemGroup>
+	<Target Name="CopySchaleDbData" BeforeTargets="Build">
+		<Copy SourceFiles="@(SchaleDbData)" DestinationFiles="@(SchaleDbData->'%(Destination)')" />
+		<Copy SourceFiles="@(EquipmentIcon)" DestinationFolder="wwwroot\images\equipment\icon" />
+		<Copy SourceFiles="@(StudentIcon)" DestinationFolder="wwwroot\images\student\icon" />
+	</Target>
 </Project>
