@@ -149,17 +149,17 @@ public sealed unsafe partial class SoPlex : IDisposable
         {
             if (disposing)
             {
-                // TODO: dispose managed state (managed objects)
+                // dispose managed state (managed objects)
             }
 
-            // TODO: free unmanaged resources (unmanaged objects) and override finalizer
+            // free unmanaged resources (unmanaged objects) and override finalizer
             Native.SoPlex_free(handle);
-            // TODO: set large fields to null
+            // set large fields to null
             disposedValue = true;
         }
     }
 
-    // TODO: override finalizer only if 'Dispose(bool disposing)' has code to free unmanaged resources
+    // override finalizer only if 'Dispose(bool disposing)' has code to free unmanaged resources
     ~SoPlex()
     {
         // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method

@@ -22,11 +22,12 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
             StudentInfo studentInfo = studentInfos[studentId];
             for (int i = 0; i < 3; i++)
             {
-                // TODO target level settings
+                // TODO: target level settings
                 int currentLevel = p.EquipmentLevel![i];
+                int targetLevel = 6;
                 string equipmentType = studentInfo.Equipment![i];
                 IEnumerable<EquipmentInfo> equipment = equipmentInfos.Values.Where(x => x.Category == equipmentType
-                                                                                        && x.IsReleased![2]
+                                                                                        && x.Tier <= targetLevel
                                                                                         && x.Tier > currentLevel
                                                                                         && x.Recipe is not null);
                 foreach (EquipmentInfo? e in equipment)
@@ -56,7 +57,9 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
         Dictionary<int, Campaign> campaigns = await schaleDb.GetCampaigns();
         Dictionary<int, GachaGroup> gachaGroups = await schaleDb.GetGachaGroups();
         Dictionary<int, int> demand = await CalculateNeededAsync();
-        Campaign[] stages = campaigns.Values.Where(x => x.RewardsCn is not null && x.Difficulty == 0 && x.EntryCost is [[5, ..]] && CheckDemand(x)).ToArray();
+        // TODO: max area
+        int maxArea = 18;
+        Campaign[] stages = campaigns.Values.Where(x => x.Area <= maxArea && x.Difficulty == 0 && x.EntryCost is [[5, ..]] && CheckDemand(x)).ToArray();
         int nStages = stages.Length;
         int nDemand = demand.Count;
         Dictionary<int, int> stageIndex = stages.Select((x, i) => (x.Id, i)).ToDictionary(x => x.Id, x => x.i);
@@ -75,7 +78,7 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
 
         bool CheckDemand(Campaign x)
         {
-            double[][] rewards = x.RewardsCn!.Default!;
+            double[][] rewards = (x.RewardsCn is not null) ? x.RewardsCn.Default! : x.Rewards!.Default!;
             foreach (double[] r in rewards)
             {
                 int id = (int)r[0];
@@ -116,7 +119,7 @@ public class Calculator(UserPreferences userPreferences, SchaleDb schaleDb)
             double[,] constraints = new double[nDemand, nStages];
             foreach (Campaign? stage in stages)
             {
-                double[][] rewards = stage.RewardsCn!.Default!;
+                double[][] rewards = (stage.RewardsCn is not null) ? stage.RewardsCn.Default! : stage.Rewards!.Default!;
                 foreach (double[] r in rewards)
                 {
                     int id = (int)r[0];
